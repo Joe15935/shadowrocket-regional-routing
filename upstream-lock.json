@@ -1,0 +1,1377 @@
+{
+  "checked_at": "2026-09-14T04:32:11+00:00",
+  "commit": "5f74cf186fccb58a1e328007361723776165027e",
+  "commit_date": "2026-09-13T20:13:50Z",
+  "normalization": {
+    "domain_exclusions": [
+      {
+        "kind": "DOMAIN",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "SkyGO",
+        "value": "clientstream.launchdarkly.com"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "SkyGO",
+        "value": "2cnt.net"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "SkyGO",
+        "value": "eu-1.xcal.tv"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "SkyGO",
+        "value": "skygo.co.nz"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "SkyGO",
+        "value": "xmidt-eu.comcast.net"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "Abema",
+        "value": "adx.promo"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "AbemaTV",
+        "value": "adx.promo"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "TVer",
+        "value": "edge.api.brightcove.com"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "Rakuten",
+        "value": "ebates.com"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "Rakuten",
+        "value": "rakuten.ca"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "Rakuten",
+        "value": "rakuten.com"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "Rakuten",
+        "value": "rakuten.com.tw"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "Rakuten",
+        "value": "rakuten.tw"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "Rakuten",
+        "value": "viber.com"
+      },
+      {
+        "kind": "DOMAIN",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "TVB",
+        "value": "edge.api.brightcove.com"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "TVB",
+        "value": "content.jwplatform.com"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "TVB",
+        "value": "encoretvb.com"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "TVB",
+        "value": "tvb.com.au"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "TVB",
+        "value": "tvbanywhere.com"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "TVB",
+        "value": "tvbanywhere.com.sg"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "TVB",
+        "value": "tvbc.com.cn"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "TVB",
+        "value": "tvbusa.com"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "TVB",
+        "value": "tvmedia.net.au"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "TVB",
+        "value": "videos-f.jwpsrv.com"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "TVB",
+        "value": "youboranqs01.com"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "ViuTV",
+        "value": "cognito-identity.us-east-1.amazonaws.com"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "ViuTV",
+        "value": "mobileanalytics.us-east-1.amazonaws.com"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "PCCW",
+        "value": "pccwglobal.com"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "PCCW",
+        "value": "pccwsolutions.com"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "Crypto",
+        "value": "bittrex.com"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "Crypto",
+        "value": "ftx.com"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "Crypto",
+        "value": "zb.com"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "Cryptocurrency",
+        "value": "bittrex.com"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "Cryptocurrency",
+        "value": "ftx.com"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "reviewed_market_or_shared_endpoint_exclusion",
+        "source": "Cryptocurrency",
+        "value": "zb.com"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "shared_infrastructure_root",
+        "source": "Binance",
+        "value": "appsflayer.com"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "shared_infrastructure_root",
+        "source": "OpenAI",
+        "value": "launchdarkly.com"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "shared_infrastructure_root",
+        "source": "OpenAI",
+        "value": "sentry.io"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "shared_infrastructure_root",
+        "source": "Copilot",
+        "value": "launchdarkly.com"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "shared_infrastructure_root",
+        "source": "Copilot",
+        "value": "sentry.io"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "broad_brand_tld_not_market_specific",
+        "source": "ChinaMaxNoIP",
+        "value": "alibaba"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "broad_brand_tld_not_market_specific",
+        "source": "ChinaMaxNoIP",
+        "value": "tmall"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "cn_suffix_has_dedicated_fallback_position",
+        "source": "ChinaMaxNoIP",
+        "value": "cn"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "ms"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "anquan"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "broad_brand_tld_not_market_specific",
+        "source": "ChinaMaxNoIP",
+        "value": "citic"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "broad_brand_tld_not_market_specific",
+        "source": "ChinaMaxNoIP",
+        "value": "icbc"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "shouji"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "sina"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "sohu"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "unicom"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "wang"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xihuan"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--1qqw23a"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--3bst00m"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--3ds443g"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--55qw42g"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--55qx5d"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--5tzm5g"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--6frz82g"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--6qq986b3xl"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--8y0a063a"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--9et52u"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--9krt00a"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--czr694b"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--czrs0t"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--czru2d"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--fiq228c5hs"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--fiq64b"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--fiqs8s"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--fiqz9s"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--fjq720a"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--g2xx48c"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--hxt814e"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--imr513n"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--io0a7i"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--kput3i"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--nyqy26a"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--otu796d"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--rhqv96g"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--ses554g"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--unup4y"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--vhquv"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--vuq861b"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--xhq521b"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "xn--zfr164b"
+      },
+      {
+        "kind": "DOMAIN-SUFFIX",
+        "reason": "unreviewed_top_level_domain",
+        "source": "ChinaMaxNoIP",
+        "value": "yun"
+      }
+    ],
+    "kept_before_canonical_resolution": 112782,
+    "omitted_by_reason": {
+      "broad_brand_tld_not_market_specific": 4,
+      "cn_suffix_has_dedicated_fallback_position": 1,
+      "identifier_like_hostname_omitted": 1,
+      "reviewed_market_or_shared_endpoint_exclusion": 35,
+      "shared_infrastructure_root": 5,
+      "unreviewed_top_level_domain": 42,
+      "unsupported_or_deliberately_omitted_type": 1371
+    },
+    "omitted_count": 1459
+  },
+  "repository": "blackmatrix7/ios_rule_script",
+  "sources": [
+    {
+      "category": "uk",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN,aod-dash-uk-live.akamaized.net",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "BBC",
+      "path": "rule/Shadowrocket/BBC/BBC.list",
+      "sha256": "65d8e181e227aa4052ad68a7b1d1f46f51e87d726b921e943237266d76ef5fd5",
+      "upstream_updated": "2025-06-06 09:16:56",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/BBC/BBC.list"
+    },
+    {
+      "category": "uk",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN,itvpnp.live.ott.irdeto.com",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "UKMedia",
+      "path": "rule/Shadowrocket/UKMedia/UKMedia.list",
+      "sha256": "bbd556b798e4d78d212fbba18ca55caf9c0ec9f648c468c72c924e5d5c8d9139",
+      "upstream_updated": "2025-06-06 09:20:02",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/UKMedia/UKMedia.list"
+    },
+    {
+      "category": "uk",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN,itvpnpmobile-a.akamaihd.net",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "ITV",
+      "path": "rule/Shadowrocket/ITV/ITV.list",
+      "sha256": "35792fb7d1be1e9585b8b5b9a76542b3b0560c567036540f915d8f77ded25914",
+      "upstream_updated": "2025-06-06 09:16:58",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/ITV/ITV.list"
+    },
+    {
+      "category": "uk",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,c4assets.com",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "All4",
+      "path": "rule/Shadowrocket/All4/All4.list",
+      "sha256": "e8833f1d48739b7d19220198d262809d98516a40703414e17db47e2ad41ce3a0",
+      "upstream_updated": "2025-06-06 09:16:57",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/All4/All4.list"
+    },
+    {
+      "category": "uk",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN,d349g9zuie06uo.cloudfront.net",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "My5",
+      "path": "rule/Shadowrocket/My5/My5.list",
+      "sha256": "90c71233907820d0c7c0fe4d4ab830c19bd4b32030a4fcb1ca277f004d407959",
+      "upstream_updated": "2025-06-06 09:16:59",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/My5/My5.list"
+    },
+    {
+      "category": "uk",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN,7d1732c7c34624df5f1270e29cf8d1ea78695fd5.cws.conviva.com",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "SkyGO",
+      "path": "rule/Shadowrocket/SkyGO/SkyGO.list",
+      "sha256": "f6f47640f40be246e21059c2bb90b72dc68fc277bf46fd69f76937317d47df33",
+      "upstream_updated": "2025-08-01 02:08:12",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/SkyGO/SkyGO.list"
+    },
+    {
+      "category": "uk",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN,itvpnp.live.ott.irdeto.com",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "BritboxUK",
+      "path": "rule/Shadowrocket/BritboxUK/BritboxUK.list",
+      "sha256": "a7f603cb5f7a4218b8cc0b9ec2fcae9e463b64b04da21e01f26eea2f16422311",
+      "upstream_updated": "2025-06-06 09:18:54",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/BritboxUK/BritboxUK.list"
+    },
+    {
+      "category": "jp",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN,abematv.akamaized.net",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "Abema",
+      "path": "rule/Shadowrocket/Abema/Abema.list",
+      "sha256": "e10b18c45ed518538a0efb9a003efa1c9fda2a7125a87ac3684f2cd6f5857789",
+      "upstream_updated": "2024-01-08 16:02:56",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/Abema/Abema.list"
+    },
+    {
+      "category": "jp",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,abema-tv.com",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "AbemaTV",
+      "path": "rule/Shadowrocket/AbemaTV/AbemaTV.list",
+      "sha256": "37dea21dd977c1d61143c3d104268685cc8d1e7dd20991f729a992c73a8a7552",
+      "upstream_updated": "2025-06-06 09:16:57",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/AbemaTV/AbemaTV.list"
+    },
+    {
+      "category": "jp",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,dogatch.jp",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "TVer",
+      "path": "rule/Shadowrocket/TVer/TVer.list",
+      "sha256": "5abb545696001a4ab0decedc97bba952ce672c0c194bd1853be4db3c59ab0fd3",
+      "upstream_updated": "2025-06-06 09:17:51",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/TVer/TVer.list"
+    },
+    {
+      "category": "jp",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,dmc.nico",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "Niconico",
+      "path": "rule/Shadowrocket/Niconico/Niconico.list",
+      "sha256": "88c2662a8ebcffaf6d6a5b92ebbc1368eb13dc87e998cb4d29ba8f5a23e5f8bd",
+      "upstream_updated": "2025-06-06 09:16:56",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/Niconico/Niconico.list"
+    },
+    {
+      "category": "jp",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,happyon.jp",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "HuluJP",
+      "path": "rule/Shadowrocket/HuluJP/HuluJP.list",
+      "sha256": "04ecf91cfb5898a906074a46bd62c2b946906950a408b451f36d70f628299077",
+      "upstream_updated": "2025-06-06 09:17:41",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/HuluJP/HuluJP.list"
+    },
+    {
+      "category": "jp",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,nikkei.co.jp",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "Nikkei",
+      "path": "rule/Shadowrocket/Nikkei/Nikkei.list",
+      "sha256": "20ff076e4232a0a0a5655026105b9c23cc6433879fd8abd2afe70a1ac884a2ac",
+      "upstream_updated": "2025-06-06 09:16:59",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/Nikkei/Nikkei.list"
+    },
+    {
+      "category": "jp",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,ebates.com",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "Rakuten",
+      "path": "rule/Shadowrocket/Rakuten/Rakuten.list",
+      "sha256": "199de0858556f461c0f5add971e174955d5a5b6acf54dbda0bfba0bacc0a349c",
+      "upstream_updated": "2025-06-06 09:17:47",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/Rakuten/Rakuten.list"
+    },
+    {
+      "category": "jp",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,lin.ee",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "Line",
+      "path": "rule/Shadowrocket/Line/Line.list",
+      "sha256": "d13bdaa601bdf37d20dfaf04c2561a06eb9067a81fcd407183730272a0264c92",
+      "upstream_updated": "2025-06-06 09:16:54",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/Line/Line.list"
+    },
+    {
+      "category": "jp",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,booth.pm",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "Pixiv",
+      "path": "rule/Shadowrocket/Pixiv/Pixiv.list",
+      "sha256": "c8d9cce7aa65eeb4369e32191b9a4cf3c5457ecdb7f7e68864b3dd69f4b3ae4d",
+      "upstream_updated": "2025-06-06 09:17:46",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/Pixiv/Pixiv.list"
+    },
+    {
+      "category": "jp",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,akabeesoft2.com",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "DMM",
+      "path": "rule/Shadowrocket/DMM/DMM.list",
+      "sha256": "255c924e26503a11d8f1d96b696ca623140686c7d34512c935fef27210f8b0b4",
+      "upstream_updated": "2025-06-06 09:18:49",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/DMM/DMM.list"
+    },
+    {
+      "category": "hk",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN,bcbolt446c5271-a.akamaihd.net",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "TVB",
+      "path": "rule/Shadowrocket/TVB/TVB.list",
+      "sha256": "acc88bed2db0778b65428e6b3b67fa071e5b97fa34f6d62ef4deac4aaf8be942",
+      "upstream_updated": "2025-06-06 09:17:00",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/TVB/TVB.list"
+    },
+    {
+      "category": "hk",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN,rthklive2-lh.akamaihd.net",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "RTHK",
+      "path": "rule/Shadowrocket/RTHK/RTHK.list",
+      "sha256": "bb4efbce21564c1c363008242c57248bb626049e9c773a3fe8b9f74683c81d8f",
+      "upstream_updated": "2025-06-06 09:16:59",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/RTHK/RTHK.list"
+    },
+    {
+      "category": "hk",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,fantv.hk",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "HKOpenTV",
+      "path": "rule/Shadowrocket/HKOpenTV/HKOpenTV.list",
+      "sha256": "0b51033534212bb9f44ee4b59c1616446f8ab552172160fa4892563a8ab7344a",
+      "upstream_updated": "2024-01-08 16:02:54",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/HKOpenTV/HKOpenTV.list"
+    },
+    {
+      "category": "hk",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN,mytvsuperlimited.hb.omtrdc.net",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "myTVSUPER",
+      "path": "rule/Shadowrocket/myTVSUPER/myTVSUPER.list",
+      "sha256": "6ce1adcc85c470291fa0f4a955b2e44aedf6e0e219517b1708369183ef6b412e",
+      "upstream_updated": "2025-06-06 09:17:51",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/myTVSUPER/myTVSUPER.list"
+    },
+    {
+      "category": "hk",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "ViuTV",
+      "path": "rule/Shadowrocket/ViuTV/ViuTV.list",
+      "sha256": "cac2ef21df797cf1f4ece2909d19cedb357356b5bf530355612082fb60d605ce",
+      "upstream_updated": "2025-06-06 09:17:00",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/ViuTV/ViuTV.list"
+    },
+    {
+      "category": "hk",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,nowe.com",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "NowE",
+      "path": "rule/Shadowrocket/NowE/NowE.list",
+      "sha256": "88ee8bfd25d4d04a9c0665acf1b35de8d0847e32d639aae1c585082493515db3",
+      "upstream_updated": "2025-06-06 09:17:50",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/NowE/NowE.list"
+    },
+    {
+      "category": "hk",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,moov.hk",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "MOOV",
+      "path": "rule/Shadowrocket/MOOV/MOOV.list",
+      "sha256": "cc2f1d423773dc0b0f73bb8a20668d92eb67b69d886eb30fb45f9dd17b0b068b",
+      "upstream_updated": "2025-06-06 09:16:59",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/MOOV/MOOV.list"
+    },
+    {
+      "category": "hk",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,1010.com.hk",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "PCCW",
+      "path": "rule/Shadowrocket/PCCW/PCCW.list",
+      "sha256": "22a1812d065f7bafb9cd753411071385c01d7d2ac263b61833bd3afacfad078f",
+      "upstream_updated": "2025-06-06 09:17:46",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/PCCW/PCCW.list"
+    },
+    {
+      "category": "hk",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,hkgolden.com",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "Hkgolden",
+      "path": "rule/Shadowrocket/Hkgolden/Hkgolden.list",
+      "sha256": "ee629c0080c036f283976c36cf80446e44a6f2a3ab00b642ca0ac22254e2be0f",
+      "upstream_updated": "2024-01-08 16:02:53",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/Hkgolden/Hkgolden.list"
+    },
+    {
+      "category": "hk",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,barkadahansasmartone.com",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "SmarTone",
+      "path": "rule/Shadowrocket/SmarTone/SmarTone.list",
+      "sha256": "7a870202c04171c34e7b12b22c59772f319427b68a792aa3ca06bdc3e0bb9736",
+      "upstream_updated": "2025-06-06 09:17:47",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/SmarTone/SmarTone.list"
+    },
+    {
+      "category": "crypto",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN,token-api.metaswap.codefi.network",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "Crypto",
+      "path": "rule/Shadowrocket/Crypto/Crypto.list",
+      "sha256": "4fe49a0fd839fe32a88640ee891197bfd926faf70c2ea1c812383d02f16184e7",
+      "upstream_updated": "2025-06-06 09:20:01",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/Crypto/Crypto.list"
+    },
+    {
+      "category": "crypto",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,aex.com",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "Cryptocurrency",
+      "path": "rule/Shadowrocket/Cryptocurrency/Cryptocurrency.list",
+      "sha256": "82eab17c49d55e27aa122b63b9c1103e30713512d79dd10f81352dcc94ca3237",
+      "upstream_updated": "2025-06-06 09:17:51",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/Cryptocurrency/Cryptocurrency.list"
+    },
+    {
+      "category": "crypto",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,appsflayer.com",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "Binance",
+      "path": "rule/Shadowrocket/Binance/Binance.list",
+      "sha256": "034b1730ac0adb39a8a88685d6f6864a7070a14d722acbf8f3859806b28b92a4",
+      "upstream_updated": "2025-06-06 09:18:53",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/Binance/Binance.list"
+    },
+    {
+      "category": "crypto",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,okex.com",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "OKX",
+      "path": "rule/Shadowrocket/OKX/OKX.list",
+      "sha256": "eee1945a601da063462eb0cb2784601513a180bf5ab78377904e4689573bfc65",
+      "upstream_updated": "2024-01-08 16:03:00",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/OKX/OKX.list"
+    },
+    {
+      "category": "ai",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN,browser-intake-datadoghq.com",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "OpenAI",
+      "path": "rule/Shadowrocket/OpenAI/OpenAI.list",
+      "sha256": "6f4047cdbf6953cf5d9b38c4ccd6da7bc6f1acb91b7a87134f25d5b8f5d2408b",
+      "upstream_updated": "2025-06-06 09:20:00",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/OpenAI/OpenAI.list"
+    },
+    {
+      "category": "ai",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN,cdn.usefathom.com",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "Claude",
+      "path": "rule/Shadowrocket/Claude/Claude.list",
+      "sha256": "870e7e25d798e7f00338507f773b0eea4dfd15e25e9df0a27d5ae421ae1ab378",
+      "upstream_updated": "2025-06-06 09:20:01",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/Claude/Claude.list"
+    },
+    {
+      "category": "ai",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN,servd-anthropic-website.b-cdn.net",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "Anthropic",
+      "path": "rule/Shadowrocket/Anthropic/Anthropic.list",
+      "sha256": "ee68bf42bf5666943067127776e40643f6f52bdd911152b1be62b3ecb187dc8e",
+      "upstream_updated": "2024-01-08 16:02:59",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/Anthropic/Anthropic.list"
+    },
+    {
+      "category": "ai",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN,ai.google.dev",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "Gemini",
+      "path": "rule/Shadowrocket/Gemini/Gemini.list",
+      "sha256": "db8f69154426dca76792ab80b3ad6b0e2d078ebe0e52e76faec1724245a4ec49",
+      "upstream_updated": "2025-06-06 09:20:02",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/Gemini/Gemini.list"
+    },
+    {
+      "category": "ai",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN,ai.google.dev",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "BardAI",
+      "path": "rule/Shadowrocket/BardAI/BardAI.list",
+      "sha256": "3dc3871ee3dcd4045d32794de6b8e5ffd9123afb71d67b3f1115b5dd3d53e619",
+      "upstream_updated": "2025-06-06 09:20:02",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/BardAI/BardAI.list"
+    },
+    {
+      "category": "ai",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN,api.msn.com",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "Copilot",
+      "path": "rule/Shadowrocket/Copilot/Copilot.list",
+      "sha256": "12773330de34b84b7fd2f3f2af598480ea62d8574d8e9b8ae9d011a53c044d39",
+      "upstream_updated": "2025-06-06 09:20:02",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/Copilot/Copilot.list"
+    },
+    {
+      "category": "streaming",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,ggpht.cn",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "YouTube",
+      "path": "rule/Shadowrocket/YouTube/YouTube.list",
+      "sha256": "f764cd91a779982225b3553ece8033c86a6545f4990f5fefd356805de962aee9",
+      "upstream_updated": "2025-06-06 09:15:10",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/YouTube/YouTube.list"
+    },
+    {
+      "category": "streaming",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN,music.youtube.com",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "YouTubeMusic",
+      "path": "rule/Shadowrocket/YouTubeMusic/YouTubeMusic.list",
+      "sha256": "cb3ec1cb88951e9ef6da69a26662d1350c803d4f4628d0147ee95aa87e83b153",
+      "upstream_updated": "2025-06-06 09:15:10",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/YouTubeMusic/YouTubeMusic.list"
+    },
+    {
+      "category": "streaming",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN,e13252.dscg.akamaiedge.net",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "Netflix",
+      "path": "rule/Shadowrocket/Netflix/Netflix.list",
+      "sha256": "ec37f90727e7db062d754487c4bed68ae8bba28f349aef0995f10c06f5e8b231",
+      "upstream_updated": "2025-06-06 09:16:54",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/Netflix/Netflix.list"
+    },
+    {
+      "category": "streaming",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN,lf16-effectcdn.byteeffecttos-g.com",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "TikTok",
+      "path": "rule/Shadowrocket/TikTok/TikTok.list",
+      "sha256": "403dccb2d51606d73db9e669e82cc1d9030c7e697756ae13d9f8f5fea53c151a",
+      "upstream_updated": "2025-08-10 02:08:00",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/TikTok/TikTok.list"
+    },
+    {
+      "category": "streaming",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,20thcenturystudios.com.au",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "Disney",
+      "path": "rule/Shadowrocket/Disney/Disney.list",
+      "sha256": "65ededc7b608e440f3d918f6e95b19ca52460c8fe368dbd9e840b4bc8669f753",
+      "upstream_updated": "2025-07-30 02:08:18",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/Disney/Disney.list"
+    },
+    {
+      "category": "streaming",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN,audio4-ak-spotify-com.akamaized.net",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "Spotify",
+      "path": "rule/Shadowrocket/Spotify/Spotify.list",
+      "sha256": "577afc9442a38c578e0aa8769b192d2f935e808114c60cbd5afd2294c79b74d0",
+      "upstream_updated": "2025-06-06 09:16:55",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/Spotify/Spotify.list"
+    },
+    {
+      "category": "streaming",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,ext-twitch.tv",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "Twitch",
+      "path": "rule/Shadowrocket/Twitch/Twitch.list",
+      "sha256": "c4a4e09eaf1b83110d2839b160fffa54d0c9ad17692bb43ae8650ff83181234d",
+      "upstream_updated": "2025-06-06 09:17:48",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/Twitch/Twitch.list"
+    },
+    {
+      "category": "streaming",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN,d1v5ir2lpwr8os.cloudfront.net",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "AmazonPrimeVideo",
+      "path": "rule/Shadowrocket/AmazonPrimeVideo/AmazonPrimeVideo.list",
+      "sha256": "d9909aa98066079d66d65f6ad48e03efb35f7851dbe45cc0395b8410ce694429",
+      "upstream_updated": "2025-06-06 09:16:57",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/AmazonPrimeVideo/AmazonPrimeVideo.list"
+    },
+    {
+      "category": "streaming",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN,atv-ps.amazon.com",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "PrimeVideo",
+      "path": "rule/Shadowrocket/PrimeVideo/PrimeVideo.list",
+      "sha256": "4f957e0888cc89f61b3f04402282f50a5cf11d4bde7240d2b330bc9e1ba6ca46",
+      "upstream_updated": "2025-06-06 09:17:50",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/PrimeVideo/PrimeVideo.list"
+    },
+    {
+      "category": "streaming",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN,wmff.warnermediacdn.com",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "HBOUSA",
+      "path": "rule/Shadowrocket/HBOUSA/HBOUSA.list",
+      "sha256": "1a9044ccf2079aed22cc40d080d50ae3a05dfb9b5f364a93f1764faa1c8dc3ae",
+      "upstream_updated": "2025-06-06 09:17:41",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/HBOUSA/HBOUSA.list"
+    },
+    {
+      "category": "streaming",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN,hls-amt.itunes.apple.com",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "AppleTV",
+      "path": "rule/Shadowrocket/AppleTV/AppleTV.list",
+      "sha256": "765c3689f99b10b2fa8a3910747676ac0a75b98869e1e0f9962bfe1121307f69",
+      "upstream_updated": "2025-06-06 09:15:11",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/AppleTV/AppleTV.list"
+    },
+    {
+      "category": "streaming",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN,aod-ssl.itunes.apple.com",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "AppleMusic",
+      "path": "rule/Shadowrocket/AppleMusic/AppleMusic.list",
+      "sha256": "b6f8f30b4c7d037b455dbb687097d9a7278ff3b5c6057516c6379056b00f4e6e",
+      "upstream_updated": "2025-06-06 09:15:11",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/AppleMusic/AppleMusic.list"
+    },
+    {
+      "category": "social",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN,api.imem.app",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "Telegram",
+      "path": "rule/Shadowrocket/Telegram/Telegram.list",
+      "sha256": "09f093cce5b3e2994147a2640e03040aac75e1db7bf2103fd1c9a2509b0176ab",
+      "upstream_updated": "2025-09-10 02:08:26",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/Telegram/Telegram.list"
+    },
+    {
+      "category": "social",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,ads-twitter.com",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "Twitter",
+      "path": "rule/Shadowrocket/Twitter/Twitter.list",
+      "sha256": "64c836f2431ca0d4728cc545bb74280ee50c886e346040012e6cdd2f3eee3f97",
+      "upstream_updated": "2025-09-28 02:08:26",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/Twitter/Twitter.list"
+    },
+    {
+      "category": "social",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,aboutfacebook.com",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "Facebook",
+      "path": "rule/Shadowrocket/Facebook/Facebook.list",
+      "sha256": "747563c96825bbd5f868be955543b0ca1979064e7b094f8aab08aafbce577c36",
+      "upstream_updated": "2025-06-06 09:16:55",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/Facebook/Facebook.list"
+    },
+    {
+      "category": "social",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,cdninstagram.com",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "Instagram",
+      "path": "rule/Shadowrocket/Instagram/Instagram.list",
+      "sha256": "65f28f9253b0dbb2a81485c788537896a0817766685e7bd91b2f90ec7aa19548",
+      "upstream_updated": "2025-06-06 09:16:56",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/Instagram/Instagram.list"
+    },
+    {
+      "category": "social",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN,graph.facebook.com",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "Whatsapp",
+      "path": "rule/Shadowrocket/Whatsapp/Whatsapp.list",
+      "sha256": "644fd145b484079ff65f681deb17a6dbf1aff620afea56b1a3c24d29d9f9db4f",
+      "upstream_updated": "2025-06-06 09:16:56",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/Whatsapp/Whatsapp.list"
+    },
+    {
+      "category": "social",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,threads.net",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "Threads",
+      "path": "rule/Shadowrocket/Threads/Threads.list",
+      "sha256": "e9b86a51952a33ee50ad3b31dc98bcb09699bbeb4d21371762b1124cb0091e86",
+      "upstream_updated": "2024-01-08 16:02:59",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/Threads/Threads.list"
+    },
+    {
+      "category": "social",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN,e122475.dscg.akamaiedge.net",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "LinkedIn",
+      "path": "rule/Shadowrocket/LinkedIn/LinkedIn.list",
+      "sha256": "660570f6613cc81ad4c590b18550a5235b1e7636ecc3ef3f90b8edf600f30134",
+      "upstream_updated": "2024-01-08 16:03:00",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/LinkedIn/LinkedIn.list"
+    },
+    {
+      "category": "social",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,redd.it",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "Reddit",
+      "path": "rule/Shadowrocket/Reddit/Reddit.list",
+      "sha256": "8437bd0bbf3214170f6601f3a9b34d45a7684c9e9f8d7554b608142be8a2e80b",
+      "upstream_updated": "2025-06-06 09:17:47",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/Reddit/Reddit.list"
+    },
+    {
+      "category": "social",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,airhorn.solutions",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "Discord",
+      "path": "rule/Shadowrocket/Discord/Discord.list",
+      "sha256": "3d18c8fe716de06891ba3d6c34dba254cb65138a10f79e1a1a0628b5237ecb2c",
+      "upstream_updated": "2025-06-06 09:16:55",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/Discord/Discord.list"
+    },
+    {
+      "category": "social",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,sc-cdn.net",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "Snap",
+      "path": "rule/Shadowrocket/Snap/Snap.list",
+      "sha256": "67e1a466e52a4fca448559566363bd4c221f612ce167642a149f4a070485aaff",
+      "upstream_updated": "2025-06-06 09:17:47",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/Snap/Snap.list"
+    },
+    {
+      "category": "social",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,pinimg.com",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "Pinterest",
+      "path": "rule/Shadowrocket/Pinterest/Pinterest.list",
+      "sha256": "fec5616657771b81c750c5be622ae206a4ce2cc8e16c8a5debd53826ea575df3",
+      "upstream_updated": "2025-06-06 09:17:46",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/Pinterest/Pinterest.list"
+    },
+    {
+      "category": "social",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,tmblr.co",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "Tumblr",
+      "path": "rule/Shadowrocket/Tumblr/Tumblr.list",
+      "sha256": "5a7c922263c12cc73599b655d9a99f339698f35e1c1d9c40bb6141a288c33d90",
+      "upstream_updated": "2025-06-06 09:17:48",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/Tumblr/Tumblr.list"
+    },
+    {
+      "category": "china",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN-SUFFIX,alibaba",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "ChinaMaxNoIP",
+      "path": "rule/Shadowrocket/ChinaMaxNoIP/ChinaMaxNoIP.list",
+      "sha256": "4502aab73c3eb70763bcd96069b3c14434dfaa0552fd9032ba043ebb5e1ba6f2",
+      "upstream_updated": "2026-09-14 04:10:47",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/ChinaMaxNoIP/ChinaMaxNoIP.list"
+    },
+    {
+      "category": "china",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": ".0.zone",
+      "format": "domain-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "ChinaMaxNoIP_Domain",
+      "path": "rule/Shadowrocket/ChinaMaxNoIP/ChinaMaxNoIP_Domain.list",
+      "sha256": "7507c1c913394394dd9659df20b17506502f6408d2b2e11eb194c912f15017e6",
+      "upstream_updated": "2026-09-14 04:10:46",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/ChinaMaxNoIP/ChinaMaxNoIP_Domain.list"
+    },
+    {
+      "category": "china",
+      "content_type": "text/plain; charset=utf-8",
+      "first_rule": "DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net",
+      "format": "rule-set",
+      "get_http": 200,
+      "head_http": 200,
+      "name": "WeChat",
+      "path": "rule/Shadowrocket/WeChat/WeChat.list",
+      "sha256": "c48cebb11ccc41a56a22560b83c64bf0efdf9c598128da3771f36fe591a0924e",
+      "upstream_updated": "2025-06-06 09:18:25",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/5f74cf186fccb58a1e328007361723776165027e/rule/Shadowrocket/WeChat/WeChat.list"
+    }
+  ]
+}

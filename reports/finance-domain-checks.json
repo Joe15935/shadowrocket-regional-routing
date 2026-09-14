@@ -1,0 +1,192 @@
+[
+  {
+    "url": "https://www.barclays.co.uk/",
+    "http": 200,
+    "final_host": "www.barclays.co.uk",
+    "title": "Personal banking | Barclays"
+  },
+  {
+    "url": "https://www.hsbc.co.uk/",
+    "http": 200,
+    "final_host": "www.hsbc.co.uk",
+    "title": "HSBC UK - Personal Banking, Mortgages, Loans &amp; Bank Accounts"
+  },
+  {
+    "url": "https://www.lloydsbank.com/",
+    "http": 200,
+    "final_host": "www.lloydsbank.com",
+    "title": "Lloyds Bank - Internet Banking - Error"
+  },
+  {
+    "url": "https://www.halifax.co.uk/",
+    "http": 200,
+    "final_host": "www.halifax.co.uk",
+    "title": "Halifax - Internet Banking - Error"
+  },
+  {
+    "url": "https://www.bankofscotland.co.uk/",
+    "http": 200,
+    "final_host": "www.bankofscotland.co.uk",
+    "title": " BOS - Internet Banking - Unavailable "
+  },
+  {
+    "url": "https://www.natwest.com/",
+    "http": 200,
+    "final_host": "www.natwest.com",
+    "title": "NatWest Online – Bank Accounts, Mortgages, Loans and Savings"
+  },
+  {
+    "url": "https://www.rbs.co.uk/",
+    "http": 200,
+    "final_host": "www.rbs.co.uk",
+    "title": "Royal Bank of Scotland Online – Bank Accounts, Mortgages, Loans and Savings"
+  },
+  {
+    "url": "https://www.santander.co.uk/",
+    "http": 200,
+    "final_host": "www.santander.co.uk",
+    "title": "Personal | Santander UK"
+  },
+  {
+    "url": "https://www.nationwide.co.uk/",
+    "http": 200,
+    "final_host": "www.nationwide.co.uk",
+    "title": "Nationwide | A good way to bank"
+  },
+  {
+    "url": "https://www.tsb.co.uk/",
+    "http": 200,
+    "final_host": "www.tsb.co.uk",
+    "title": "Personal | Life Made More | TSB Bank"
+  },
+  {
+    "url": "https://www.metrobankonline.co.uk/",
+    "http": 200,
+    "final_host": "www.metrobankonline.co.uk",
+    "title": "Metro Bank | This is Relationship Banking"
+  },
+  {
+    "url": "https://www.chase.co.uk/",
+    "http": 200,
+    "final_host": "www.chase.co.uk",
+    "title": "Home | Chase UK"
+  },
+  {
+    "url": "https://wise.com/",
+    "http": 200,
+    "final_host": "wise.com",
+    "title": "Wise: The international account | Money without borders | Wise United States"
+  },
+  {
+    "url": "https://www.trading212.com/",
+    "http": 403,
+    "error": "HTTPError"
+  },
+  {
+    "url": "https://www.lseg.com/",
+    "http": 200,
+    "final_host": "www.lseg.com",
+    "title": "Financial Markets Infrastructure and Data | LSEG"
+  },
+  {
+    "url": "https://www.londonstockexchange.com/",
+    "http": 200,
+    "final_host": "www.londonstockexchange.com",
+    "title": "London Stock Exchange | London Stock Exchange"
+  },
+  {
+    "url": "https://www.fca.org.uk/",
+    "http": 200,
+    "final_host": "www.fca.org.uk",
+    "title": "Financial Conduct Authority | FCA"
+  },
+  {
+    "url": "https://www.bk.mufg.jp/",
+    "http": 200,
+    "final_host": "www.bk.mufg.jp",
+    "title": "三菱ＵＦＪ銀行"
+  },
+  {
+    "url": "https://www.smbc.co.jp/",
+    "http": 200,
+    "final_host": "www.smbc.co.jp",
+    "title": "�O��Z�F��s"
+  },
+  {
+    "url": "https://www.mizuhobank.co.jp/",
+    "http": 403,
+    "error": "HTTPError"
+  },
+  {
+    "url": "https://www.jp-bank.japanpost.jp/",
+    "http": 200,
+    "final_host": "www.jp-bank.japanpost.jp",
+    "title": "株式会社ゆうちょ銀行"
+  },
+  {
+    "url": "https://www.sbisec.co.jp/",
+    "http": 200,
+    "final_host": "www.sbisec.co.jp",
+    "title": "SBI�،��b���EFX�E�����M���E�m�苒�o�N���ENISA"
+  },
+  {
+    "url": "https://www.rakuten-sec.co.jp/",
+    "http": 200,
+    "final_host": "www.rakuten-sec.co.jp",
+    "title": "楽天証券 | ネット証券（株・FX・投資信託･確定拠出年金･NISA）"
+  },
+  {
+    "url": "https://www.hkex.com.hk/",
+    "http": 200,
+    "final_host": "www.hkex.com.hk",
+    "title": " HKEX "
+  },
+  {
+    "url": "https://www.sfc.hk/",
+    "http": 200,
+    "final_host": "www.sfc.hk",
+    "title": "Home | Securities &amp; Futures Commission of Hong Kong"
+  },
+  {
+    "url": "https://www.hsbc.com.hk/",
+    "http": 200,
+    "final_host": "www.hsbc.com.hk",
+    "title": "HSBC Hong Kong - Accounts, Insurance, Credit Cards, Loans"
+  },
+  {
+    "url": "https://www.hangseng.com/",
+    "http": 200,
+    "final_host": "www.hangseng.com",
+    "title": "Hang Seng Bank Limited"
+  },
+  {
+    "url": "https://www.bochk.com/",
+    "http": 200,
+    "final_host": "www.bochk.com",
+    "title": "Bank of China (Hong Kong) Limited"
+  },
+  {
+    "url": "https://bank.za.group/",
+    "http": 200,
+    "final_host": "bank.za.group",
+    "title": "ZA Bank | 做壞規矩 做好銀行 - 香港第一數字銀行"
+  },
+  {
+    "url": "https://mox.com/",
+    "http": 200,
+    "final_host": "mox.com",
+    "title": null
+  },
+  {
+    "url": "https://www.welab.bank/",
+    "http": 200,
+    "final_host": "www.welab.bank",
+    "title": "WeLab Bank"
+  },
+  {
+    "url": "https://www.futuhk.com/",
+    "http": 200,
+    "final_host": "www.futuhk.com",
+    "title": "富途證券 | FUTU極速開戶，美股港股0佣金交易"
+  }
+]

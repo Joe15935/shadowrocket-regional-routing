@@ -1,0 +1,22 @@
+# Reviewed local canonical rules. Changes require deliberate review.
+DOMAIN-SUFFIX,cboe.com
+DOMAIN-SUFFIX,cboe.us
+DOMAIN-SUFFIX,fidelity.com
+DOMAIN-SUFFIX,fidelityinvestments.com
+DOMAIN-SUFFIX,firstrade.com
+DOMAIN-SUFFIX,ibkr.com
+DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-SUFFIX,nomura.com
+DOMAIN-SUFFIX,nasdaq.com
+DOMAIN-SUFFIX,nasdaqtrader.com
+DOMAIN-SUFFIX,nyse.com
+DOMAIN-SUFFIX,revolut.app
+DOMAIN-SUFFIX,revolut.com
+DOMAIN-SUFFIX,revolut.us
+DOMAIN-SUFFIX,robinhood.com
+DOMAIN-SUFFIX,schwab.com
+DOMAIN-SUFFIX,schwabcdn.com
+DOMAIN-SUFFIX,tradingview-widget.com
+DOMAIN-SUFFIX,tradingview.com
+DOMAIN-SUFFIX,webull.com
+DOMAIN-SUFFIX,webullfintech.com

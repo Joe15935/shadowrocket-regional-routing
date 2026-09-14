@@ -1,0 +1,96 @@
+name: Validate and update routing rules
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: '17 6 * * *'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: routing-main-publisher
+  cancel-in-progress: false
+
+jobs:
+  validate:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - name: Validate supported configuration and fixed routing cases
+        run: |
+          python3 scripts/validate.py
+          python3 scripts/regression_test.py
+          python3 -m unittest discover -s tests -p 'test_*.py'
+      - name: Check public raw files
+        run: python3 scripts/remote_verify.py
+
+  update:
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          fetch-depth: 0
+      - name: Record previous published version
+        run: cp version.json /tmp/routing-previous-version.json
+      - name: Fetch, pin, normalize, diff, validate, classify, test and build
+        run: python3 scripts/pipeline.py update
+      - name: Detect a tested rule release
+        id: changed
+        run: |
+          python3 - <<'PY'
+          import json, os
+          old=json.load(open('/tmp/routing-previous-version.json'))['version']
+          new=json.load(open('version.json'))['version']
+          with open(os.environ['GITHUB_OUTPUT'],'a') as f:
+              f.write('changed='+str(old!=new).lower()+'\n')
+              f.write('version='+new+'\n')
+          PY
+      - name: Atomically publish the configuration, snapshots and mandatory reports
+        if: steps.changed.outputs.changed == 'true'
+        env:
+          RELEASE_VERSION: ${{ steps.changed.outputs.version }}
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md CHANGELOG.md shadowrocket-ultimate.conf rules/generated upstream-lock.json conflicts.json version.json reports
+          git commit -m "Publish tested routing snapshot ${RELEASE_VERSION}"
+          git tag "${RELEASE_VERSION}"
+          git push --atomic origin HEAD:main "refs/tags/${RELEASE_VERSION}"
+      - name: Verify public release
+        if: steps.changed.outputs.changed == 'true'
+        run: python3 scripts/remote_verify.py
+      - name: Mark blocked update report if a preceding stage failed
+        if: failure()
+        run: |
+          mkdir -p work
+          if [ ! -f work/update-report.md ]; then
+            printf '# UPDATE_BLOCKED\n\nA workflow stage failed. See the job log. No unvalidated candidate is published by the update stage.\n' > work/update-report.md
+          fi
+      - name: Publish run summary
+        if: always()
+        run: |
+          if [ -f work/update-report.md ]; then
+            cat work/update-report.md >> "$GITHUB_STEP_SUMMARY"
+          fi
+      - name: Retain update report and complete test evidence
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: routing-update-report-${{ github.run_id }}
+          path: |
+            work/update-report.md
+            work/change-report.json
+            work/regression-results.json
+            work/remote-checks/results.json
+          if-no-files-found: warn
+          retention-days: 90

@@ -1,0 +1,4 @@
+# Reviewed local canonical rules. Changes require deliberate review.
+DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,apzones.com
+DOMAIN-SUFFIX,icloud.com.cn

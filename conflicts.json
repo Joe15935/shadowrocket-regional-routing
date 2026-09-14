@@ -1,0 +1,1586 @@
+{
+  "resolution_order": [
+    "local canonical overrides",
+    "regional native",
+    "crypto",
+    "global category",
+    "China",
+    "country suffix",
+    "FINAL"
+  ],
+  "resolved": [
+    {
+      "candidate_policy": "香港家宽",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,viu.com",
+      "source": "ViuTV",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,viu.com"
+    },
+    {
+      "candidate_policy": "香港家宽",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,viu.com",
+      "source": "PCCW",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,viu.com"
+    },
+    {
+      "candidate_policy": "日本家宽",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,kraken.com",
+      "source": "Crypto",
+      "winner_policy": "英国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,kraken.com"
+    },
+    {
+      "candidate_policy": "日本家宽",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,tradingview.com",
+      "source": "Crypto",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,tradingview.com"
+    },
+    {
+      "candidate_policy": "日本家宽",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,kraken.com",
+      "source": "Cryptocurrency",
+      "winner_policy": "英国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,kraken.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,aaplimg.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,aaplimg.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,alibaba.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,alibaba.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,alibabacloud.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,alibabacloud.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,aliexpress-media.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,aliexpress-media.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,aliexpress.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,aliexpress.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,aliexpress.ru",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,aliexpress.ru"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,aliexpress.us",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,aliexpress.us"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,azuremigrate.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,azuremigratetest.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,azurestackhub.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,azurestackhubuat.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,biliintl.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,biliintl.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,bj1.api.bing.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,bing.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,bochk.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "香港家宽",
+      "winner_rule": "DOMAIN-SUFFIX,bochk.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,cbdstest.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,ccmdls.adobe.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,adobe.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,cn.bing.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,bing.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,cncbinternational.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "香港家宽",
+      "winner_rule": "DOMAIN-SUFFIX,cncbinternational.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,collaborate.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,collaborateppe.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,d4z1onkegyrs5.cloudfront.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,cloudfront.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,dcg.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,dcn01.ps4.update.playstation.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,playstation.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,dcn01.ps5.update.playstation.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,playstation.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,ditu.live.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,live.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,download.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,download.visualstudio.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,dreamspark.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,dreamsparkuat.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,gs2.ww.prod.dl.playstation.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,playstation.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,gst.prod.dl.playstation.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,playstation.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,icbcasia.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "香港家宽",
+      "winner_rule": "DOMAIN-SUFFIX,icbcasia.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,iq.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,iq.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,itacademy.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,itacademyuat.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,larkoffice.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,larkoffice.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,larksuite.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,larksuite.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,lazada.co.th",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,lazada.co.th"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,lazada.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,lazada.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,lazada.sg",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,lazada.sg"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,lenovo.com.cdn.cloudflare.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,cloudflare.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,lex.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,lexuat.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,mbs.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,mpnbenefits.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,mpnbenefitsrtl.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,mpnbenefitsrtluat.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,msdn.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,msdprod-ad.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,msproduct.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,myvs.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,mzstatic.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,mzstatic.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,oemsoc.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,oemsocuat.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,oemssl.cn.cdn.cloudflare.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,cloudflare.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,officemkt.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,officemktuat.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,openrice.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "香港家宽",
+      "winner_rule": "DOMAIN-SUFFIX,openrice.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,osrelease.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,p-bstarstatic.akamaized.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,akamaized.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,qualcomm.cn.cdn.cloudflare.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,cloudflare.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,r.bing.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,bing.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,rsm.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,sdx.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,sectigochina.com.cdn.cloudflare.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,cloudflare.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,sgst.prod.dl.playstation.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,playstation.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,software.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,sony.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,sony.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,storecorefulfillment.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,storeedge.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,surface.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,surface.downloads.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,th.bing.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,bing.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,update.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,upos-bstar-mirrorakam.akamaized.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,akamaized.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,upos-bstar1-mirrorakam.akamaized.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,akamaized.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,akamaized.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,vlportal.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,volic.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,vscode.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,vulcan.dl.playstation.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,playstation.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,vz.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,wetv.vip",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,wetv.vip"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,whoami.akamai.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,akamai.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,windbg.download.prss.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN-SUFFIX,windowsupdate.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN,abclive2-lh.akamaihd.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,akamaihd.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN,aka-amd-njpwworld-hls-enlive.akamaized.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,akamaized.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN,amdlive-ch01.ctnd.com.edgesuite.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,edgesuite.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN,amdlive-ch03-ctnd-com.akamaized.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,akamaized.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN,amdlive-ch03.ctnd.com.edgesuite.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,edgesuite.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN,amdlive.ctnd.com.edgesuite.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,edgesuite.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN,as-hls-ww-live.akamaized.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,akamaized.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN,blzddist1-a.akamaihd.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,akamaihd.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN,cbsnewshd-lh.akamaihd.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,akamaihd.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN,cdn-videos.akamaized.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,akamaized.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,cloudflare.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN,developer.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN,e1.vdowowza.vip.hk1.tvb.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "香港家宽",
+      "winner_rule": "DOMAIN-SUFFIX,tvb.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN,f24hls-i.akamaihd.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,akamaihd.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN,hindiabp-lh.akamaihd.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,akamaihd.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN,nhkw-zh-hlscomp.akamaized.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,akamaized.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN,nhkwlive-xjp.akamaized.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,akamaized.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN,nprnat-i.akamaihd.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,akamaihd.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN,ntservicepack.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN,origin-a.akamaihd.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,akamaihd.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN,rfimonde-lh.akamaihd.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,akamaihd.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN,rmtv24hweblive-lh.akamaihd.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,akamaihd.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN,rthklive1-lh.akamaihd.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,akamaihd.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN,rthklive2-lh.akamaihd.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,akamaihd.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN,sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,akamaized.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN,steamcommunity-a.akamaihd.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,akamaihd.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN,storeedgefd.dsx.mp.microsoft.com",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,microsoft.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN,streamipcf.akamaized.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,akamaized.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN,trtcanlitv-lh.akamaihd.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,akamaihd.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN,voa-lh.akamaihd.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,akamaihd.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN,wcnc-lh.akamaihd.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,akamaihd.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "local_canonical_covers_upstream",
+      "rule": "DOMAIN,weather-lh.akamaihd.net",
+      "source": "ChinaMaxNoIP_Domain",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,akamaihd.net"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "authoritative_priority_removes_covered_lower_rule",
+      "rule": "DOMAIN,beacons.gcp.gvt2.com",
+      "source": "rules/generated/china-direct.list",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,gvt2.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "authoritative_priority_removes_covered_lower_rule",
+      "rule": "DOMAIN,beacons.gvt2.com",
+      "source": "rules/generated/china-direct.list",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,gvt2.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "authoritative_priority_removes_covered_lower_rule",
+      "rule": "DOMAIN,beacons2.gvt2.com",
+      "source": "rules/generated/china-direct.list",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,gvt2.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "authoritative_priority_removes_covered_lower_rule",
+      "rule": "DOMAIN,beacons3.gvt2.com",
+      "source": "rules/generated/china-direct.list",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,gvt2.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "authoritative_priority_removes_covered_lower_rule",
+      "rule": "DOMAIN,redirector.c.youtubeeducation.com",
+      "source": "rules/generated/china-direct.list",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,youtubeeducation.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "authoritative_priority_removes_covered_lower_rule",
+      "rule": "DOMAIN,redirector.gcpcdn.gvt1.com",
+      "source": "rules/generated/china-direct.list",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,gvt1.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "authoritative_priority_removes_covered_lower_rule",
+      "rule": "DOMAIN,redirector.gvt1.com",
+      "source": "rules/generated/china-direct.list",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,gvt1.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "authoritative_priority_removes_covered_lower_rule",
+      "rule": "DOMAIN,redirector.offline-maps.gvt1.com",
+      "source": "rules/generated/china-direct.list",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,gvt1.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "authoritative_priority_removes_covered_lower_rule",
+      "rule": "DOMAIN,redirector.snap.gvt1.com",
+      "source": "rules/generated/china-direct.list",
+      "winner_policy": "美国家宽",
+      "winner_rule": "DOMAIN-SUFFIX,gvt1.com"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "authoritative_priority_removes_covered_lower_rule",
+      "rule": "DOMAIN-SUFFIX,mdex.co",
+      "source": "rules/generated/china-direct.list",
+      "winner_policy": "日本家宽",
+      "winner_rule": "DOMAIN-SUFFIX,mdex.co"
+    },
+    {
+      "candidate_policy": "DIRECT",
+      "resolution": "authoritative_priority_removes_covered_lower_rule",
+      "rule": "DOMAIN-SUFFIX,mdex.com",
+      "source": "rules/generated/china-direct.list",
+      "winner_policy": "日本家宽",
+      "winner_rule": "DOMAIN-SUFFIX,mdex.com"
+    }
+  ],
+  "resolved_count": 135,
+  "retained_overlap_count": 61,
+  "retained_overlaps": [
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,interactivebrokers.com",
+      "policy": "英国家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,uk.interactivebrokers.com",
+      "winner_policy": "英国家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,conviva.com",
+      "policy": "英国家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,7d1732c7c34624df5f1270e29cf8d1ea78695fd5.cws.conviva.com",
+      "winner_policy": "英国家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaized.net",
+      "policy": "英国家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,aod-dash-uk-live.akamaized.net",
+      "winner_policy": "英国家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaized.net",
+      "policy": "英国家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,aod-hls-uk-live.akamaized.net",
+      "winner_policy": "英国家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaized.net",
+      "policy": "英国家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,as-dash-uk-live.akamaized.net",
+      "winner_policy": "英国家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaized.net",
+      "policy": "英国家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,as-hls-uk-live.akamaized.net",
+      "winner_policy": "英国家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,cloudfront.net",
+      "policy": "英国家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,d349g9zuie06uo.cloudfront.net",
+      "winner_policy": "英国家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaihd.net",
+      "policy": "英国家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,itvpnpmobile-a.akamaihd.net",
+      "winner_policy": "英国家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,omtrdc.net",
+      "policy": "英国家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,sky.com.ssl.d1.sc.omtrdc.net",
+      "winner_policy": "英国家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaized.net",
+      "policy": "英国家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,vod-dash-uk-live.akamaized.net",
+      "winner_policy": "英国家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaized.net",
+      "policy": "英国家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,vod-dash-ww-live.akamaized.net",
+      "winner_policy": "英国家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaized.net",
+      "policy": "英国家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,vod-hls-uk-live.akamaized.net",
+      "winner_policy": "英国家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaized.net",
+      "policy": "英国家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,vod-sub-uk-live.akamaized.net",
+      "winner_policy": "英国家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaized.net",
+      "policy": "英国家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,vod-thumb-uk-live.akamaized.net",
+      "winner_policy": "英国家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaized.net",
+      "policy": "英国家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,vod-thumb-ww-live.akamaized.net",
+      "winner_policy": "英国家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaized.net",
+      "policy": "英国家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,vs-cmaf-push-uk-live.akamaized.net",
+      "winner_policy": "英国家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaized.net",
+      "policy": "英国家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,vs-cmaf-pushb-ww-live.akamaized.net",
+      "winner_policy": "英国家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,llnwd.net",
+      "policy": "英国家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net",
+      "winner_policy": "英国家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,mercari.com",
+      "policy": "日本家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN-SUFFIX,jp.mercari.com",
+      "winner_policy": "日本家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,mercari.com",
+      "policy": "日本家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN-SUFFIX,static.jp.mercari.com",
+      "winner_policy": "日本家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaized.net",
+      "policy": "日本家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,abematv.akamaized.net",
+      "winner_policy": "日本家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaized.net",
+      "policy": "日本家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,ds-linear-abematv.akamaized.net",
+      "winner_policy": "日本家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaized.net",
+      "policy": "日本家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,ds-vod-abematv.akamaized.net",
+      "winner_policy": "日本家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaized.net",
+      "policy": "日本家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,linear-abematv.akamaized.net",
+      "winner_policy": "日本家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaized.net",
+      "policy": "日本家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,vod-abematv.akamaized.net",
+      "winner_policy": "日本家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaized.net",
+      "policy": "日本家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN-SUFFIX,abematv.akamaized.net",
+      "winner_policy": "日本家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,cloudfront.net",
+      "policy": "日本家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN-SUFFIX,d1otoma47x30pg.cloudfront.net",
+      "winner_policy": "日本家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,cloudfront.net",
+      "policy": "日本家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN-SUFFIX,d2wy8f7a9ursnm.cloudfront.net",
+      "winner_policy": "日本家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaized.net",
+      "policy": "日本家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN-SUFFIX,ds-linear-abematv.akamaized.net",
+      "winner_policy": "日本家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaized.net",
+      "policy": "日本家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN-SUFFIX,ds-vod-abematv.akamaized.net",
+      "winner_policy": "日本家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaized.net",
+      "policy": "日本家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN-SUFFIX,linear-abematv.akamaized.net",
+      "winner_policy": "日本家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaized.net",
+      "policy": "日本家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN-SUFFIX,vod-abematv.akamaized.net",
+      "winner_policy": "日本家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaihd.net",
+      "policy": "香港家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,bcbolt446c5271-a.akamaihd.net",
+      "winner_policy": "香港家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,omtrdc.net",
+      "policy": "香港家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,mytvsuperlimited.hb.omtrdc.net",
+      "winner_policy": "香港家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,omtrdc.net",
+      "policy": "香港家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,mytvsuperlimited.sc.omtrdc.net",
+      "winner_policy": "香港家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaihd.net",
+      "policy": "香港家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,rthklive2-lh.akamaihd.net",
+      "winner_policy": "香港家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaized.net",
+      "policy": "香港家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,rthkradio1-live.akamaized.net",
+      "winner_policy": "香港家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaized.net",
+      "policy": "香港家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,rthkradio2-live.akamaized.net",
+      "winner_policy": "香港家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaized.net",
+      "policy": "香港家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,rthkradio3-live.akamaized.net",
+      "winner_policy": "香港家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaized.net",
+      "policy": "香港家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,rthkradio4-live.akamaized.net",
+      "winner_policy": "香港家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaized.net",
+      "policy": "香港家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,rthkradio5-live.akamaized.net",
+      "winner_policy": "香港家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaized.net",
+      "policy": "香港家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,rthkradiocmgrgb-live.akamaized.net",
+      "winner_policy": "香港家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaized.net",
+      "policy": "香港家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,rthkradiocnrhk-live.akamaized.net",
+      "winner_policy": "香港家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaized.net",
+      "policy": "香港家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,rthkradiopth-live.akamaized.net",
+      "winner_policy": "香港家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaized.net",
+      "policy": "香港家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,rthktv31-live.akamaized.net",
+      "winner_policy": "香港家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,akamaized.net",
+      "policy": "香港家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,rthktv32-live.akamaized.net",
+      "winner_policy": "香港家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,azurewebsites.net",
+      "policy": "香港家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,tvbtracking.azurewebsites.net",
+      "winner_policy": "香港家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,cloudfront.net",
+      "policy": "香港家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN-SUFFIX,d1k2us671qcoau.cloudfront.net",
+      "winner_policy": "香港家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,cloudfront.net",
+      "policy": "香港家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN-SUFFIX,d2anahhhmp1ffz.cloudfront.net",
+      "winner_policy": "香港家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,cloudfront.net",
+      "policy": "香港家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN-SUFFIX,dfp6rglgjqszk.cloudfront.net",
+      "winner_policy": "香港家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,omtrdc.net",
+      "policy": "香港家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN-SUFFIX,mytvsuperlimited.hb.omtrdc.net",
+      "winner_policy": "香港家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,omtrdc.net",
+      "policy": "香港家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN-SUFFIX,mytvsuperlimited.sc.omtrdc.net",
+      "winner_policy": "香港家宽"
+    },
+    {
+      "lower_policy": "美国家宽",
+      "lower_rule": "DOMAIN-SUFFIX,amazonaws.com",
+      "policy": "日本家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,mexc-static-learn.s3.ap-northeast-1.amazonaws.com",
+      "winner_policy": "日本家宽"
+    },
+    {
+      "lower_policy": "DIRECT",
+      "lower_rule": "DOMAIN-SUFFIX,cn",
+      "policy": "日本家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN-SUFFIX,ethereum.cn",
+      "winner_policy": "日本家宽"
+    },
+    {
+      "lower_policy": "DIRECT",
+      "lower_rule": "DOMAIN-SUFFIX,mchost.guru",
+      "policy": "美国家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,trae-api-sg.mchost.guru",
+      "winner_policy": "美国家宽"
+    },
+    {
+      "lower_policy": "DIRECT",
+      "lower_rule": "DOMAIN-SUFFIX,cn",
+      "policy": "美国家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN-SUFFIX,amazonprimevideo.cn",
+      "winner_policy": "美国家宽"
+    },
+    {
+      "lower_policy": "DIRECT",
+      "lower_rule": "DOMAIN-SUFFIX,cn",
+      "policy": "美国家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN-SUFFIX,amazonprimevideo.com.cn",
+      "winner_policy": "美国家宽"
+    },
+    {
+      "lower_policy": "DIRECT",
+      "lower_rule": "DOMAIN-SUFFIX,cn",
+      "policy": "美国家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN-SUFFIX,ggpht.cn",
+      "winner_policy": "美国家宽"
+    },
+    {
+      "lower_policy": "DIRECT",
+      "lower_rule": "DOMAIN-SUFFIX,cdn20.com",
+      "policy": "美国家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN,licdn.cn.cdn20.com",
+      "winner_policy": "美国家宽"
+    },
+    {
+      "lower_policy": "DIRECT",
+      "lower_rule": "DOMAIN-SUFFIX,cn",
+      "policy": "美国家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN-SUFFIX,licdn.cn",
+      "winner_policy": "美国家宽"
+    },
+    {
+      "lower_policy": "DIRECT",
+      "lower_rule": "DOMAIN-SUFFIX,cn",
+      "policy": "美国家宽",
+      "resolution": "explicit_higher_priority_exception",
+      "rule": "DOMAIN-SUFFIX,linkedin.cn",
+      "winner_policy": "美国家宽"
+    }
+  ],
+  "unresolved": []
+}

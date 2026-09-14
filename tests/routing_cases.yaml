@@ -1,0 +1,1616 @@
+[
+  {
+    "host": "kraken.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "pro.kraken.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "api.kraken.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "ws.kraken.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "ws-auth.kraken.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "futures.kraken.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "krak.app",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "support.krak.app",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "paypal.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "paypalobjects.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "paypal.me",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "paypal.co.uk",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "www.paypal.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "api.paypal.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "api-m.paypal.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "api-3t.paypal.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "checkout.paypal.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "c.paypal.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "t.paypal.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "www.paypalobjects.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "wise.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "transferwise.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "trading212.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "bbc.co.uk",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "bbc.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "itv.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "channel4.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "my5.tv",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "sky.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "britbox.co.uk",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "britbox.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "monzo.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "api.monzo.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "starlingbank.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "api.starlingbank.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "payment-api.starlingbank.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "barclays.co.uk",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "hsbc.co.uk",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "lloydsbank.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "halifax.co.uk",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "bankofscotland.co.uk",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "natwest.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "rbs.co.uk",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "santander.co.uk",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "nationwide.co.uk",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "tsb.co.uk",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "metrobankonline.co.uk",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "chase.co.uk",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "lseg.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "londonstockexchange.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "fca.org.uk",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "companieshouse.gov.uk",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "nhs.net",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "unknown-example.co.uk",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "unknown-example.uk",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "unknown-example.org.uk",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "unknown-example.gov.uk",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "unknown-example.ac.uk",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "amazon.co.uk",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "binance.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "api.binance.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "ws-api.binance.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "stream.binance.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "fapi.binance.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "fstream.binance.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "data-api.binance.vision",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "data-stream.binance.vision",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "bnbstatic.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "okx.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "ws.okx.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "wspap.okx.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "static.okx.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "openapi.okx.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "us.okx.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "gate.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "gate.io",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "api.gateio.ws",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "fx-api.gateio.ws",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "api-testnet.gateapi.io",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "gateimg.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "gaticdn.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "bybit.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "api.bybit.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "api.bytick.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "stream.bybit.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "stream.bybit.eu",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "api.manepa.jp",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "api.spark-fintech.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "mexc.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "api.mexc.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "wbs-api.mexc.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "contract.mexc.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "coinbase.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "api.coinbase.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "ws-feed.exchange.coinbase.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "bitget.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "kucoin.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "api.kucoin.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "htx.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "api.huobi.pro",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "crypto.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "bitfinex.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "bitstamp.net",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "deribit.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "coinex.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "coingecko.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "coinmarketcap.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "etherscan.io",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "arbiscan.io",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "basescan.org",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "bscscan.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "solscan.io",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "uniswap.org",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "aave.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "curve.fi",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "1inch.io",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "metamask.io",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "phantom.app",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "ledger.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "trezor.io",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "infura.io",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "alchemy.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "coindesk.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "gemini.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "abema.tv",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "tver.jp",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "nicovideo.jp",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "niconico.jp",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "rakuten.co.jp",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "line.me",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "nikkei.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "yahoo.co.jp",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "paypay.ne.jp",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "jp.mercari.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "pixiv.net",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "hulu.jp",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "moneykit.net",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "bk.mufg.jp",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "smbc.co.jp",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "mizuhobank.co.jp",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "jp-bank.japanpost.jp",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "sbisec.co.jp",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "rakuten-sec.co.jp",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "amazon.co.jp",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "unknown-example.jp",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "unknown-example.co.jp",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "unknown-example.ne.jp",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "unknown-example.or.jp",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "unknown-example.go.jp",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "hkex.com.hk",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "hkex.com",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "sfc.hk",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "tvb.com",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "rthk.hk",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "hkgolden.com",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "hsbc.com.hk",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "hangseng.com",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "bochk.com",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "bank.za.group",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "mox.com",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "welab.bank",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "futuhk.com",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "futunn.com",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "lihkg.com",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "mytvsuper.com",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "viu.tv",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "viu.now.com",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "nowe.com",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "nowestatic.com",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "moov.hk",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "hkt.com",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "pccw.com",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "smartone.com",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "gov.hk",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "unknown-example.hk",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "unknown-example.com.hk",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "unknown-example.org.hk",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "unknown-example.co.hk",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "unknown-example.edu.hk",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "unknown-example.gov.hk",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "chatgpt.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "openai.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "claude.ai",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "anthropic.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "gemini.google.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "grok.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "x.ai",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "cursor.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "cursor.sh",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "aistudio.google.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "generativelanguage.googleapis.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "githubcopilot.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "copilot.microsoft.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "perplexity.ai",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "poe.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "huggingface.co",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "replit.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "windsurf.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "midjourney.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "runwayml.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "elevenlabs.io",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "notion.so",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "firefly.adobe.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "youtube.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "googlevideo.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "tiktok.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "tiktokcdn.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "tiktokcdn-us.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "netflix.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "disneyplus.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "max.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "spotify.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "twitch.tv",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "primevideo.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "tv.apple.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "music.apple.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "apple.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "appleid.apple.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "idmsa.apple.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "icloud.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "cdn-apple.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "aaplimg.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "mzstatic.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "icloud-content.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "apple-cloudkit.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "telegram.org",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "t.me",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "x.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "twitter.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "facebook.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "instagram.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "threads.net",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "whatsapp.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "discord.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "reddit.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "linkedin.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "snapchat.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "pinterest.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "tumblr.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "mastodon.social",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "revolut.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "interactivebrokers.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "schwab.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "firstrade.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "fidelity.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "robinhood.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "webull.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "tradingview.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "nyse.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "nasdaq.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "cboe.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "paypal.us",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "aliexpress.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "amazon.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "bilibili.tv",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "biliintl.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "bstation.tv",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "iq.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "wetv.vip",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "capcut.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "alibabacloud.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "alibaba.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "temu.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "shein.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "rakuten.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "viber.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "mercari.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "sony.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "playstation.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "moomoo.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "pccwglobal.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "example.org",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "random-unknown-global-example.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "totallyunknown.example",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "cloudflare.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "challenges.cloudflare.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "clientstream.launchdarkly.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "edge.api.brightcove.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "cognito-identity.us-east-1.amazonaws.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "mobileanalytics.us-east-1.amazonaws.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "arbitrary.cloudfront.net",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "arbitrary.akamaized.net",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "arbitrary.fastly.net",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "arbitrary.googleapis.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "sentry.io",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "fakepaypal.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "kraken.com.evil.example",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "notbinance.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "bank-example.org",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "ai-example.org",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "japan-example.org",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "qq.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "weixin.qq.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "wechat.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "weixin.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "alipay.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "taobao.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "tmall.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "jd.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "bilibili.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "douyin.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "xiaohongshu.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "meituan.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "12306.cn",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "icbc.com.cn",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "ccb.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "abchina.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "boc.cn",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "cmbchina.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "bankcomm.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "spdb.com.cn",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "cmbc.com.cn",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "cib.com.cn",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "cebbank.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "cgbchina.com.cn",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "10086.cn",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "10010.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "189.cn",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "eastmoney.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "10jqka.com.cn",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "xueqiu.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "baidu.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "amap.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "weibo.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "youku.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "v.qq.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "iqiyi.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "163.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "music.163.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "zhihu.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "douban.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "hupu.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "ctrip.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "qunar.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "fliggy.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "xiaojukeji.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "pinduoduo.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "yangkeduo.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "ele.me",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "tencent.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "alicdn.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "myqcloud.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "aliyun.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "huaweicloud.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "apple.com.cn",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "icloud.com.cn",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "apzones.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "p01-ckdatabase.apzones.com",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "tmall.hk",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "jd.hk",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "gov.cn",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "unknown-example.cn",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "localhost",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "router.local",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "printer.home.arpa",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "bbc.com",
+    "geoip": "US",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "tver.jp",
+    "geoip": "US",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "tvb.com",
+    "geoip": "US",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "tiktok.com",
+    "geoip": "CN",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "binance.com",
+    "geoip": "CN",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "paypal.com",
+    "geoip": "CN",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "unknown-global.test",
+    "geoip": "CN",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "unknown-global.test",
+    "geoip": "JP",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "unknown-global.test",
+    "geoip": "GB",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "unknown-global.test",
+    "geoip": "HK",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "127.0.0.1",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "10.2.3.4",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "172.16.2.3",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "192.168.2.3",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "169.254.2.3",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "::1",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "fd00::1",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "fe80::1",
+    "expected": "DIRECT"
+  },
+  {
+    "host": "static.okx.ac",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "static.okx.cab",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "static.okx.reise",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "www.bybit-global.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "www.kucoinauth.cloud",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "img.bgstatic.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "img.bitgetimg.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "file.coinexstatic.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "mexc-static-learn.s3.ap-northeast-1.amazonaws.com",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "iapi.kraken.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "assets.kraken.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "assets-cms.kraken.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "m.krak.app",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "www.paypal-status.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "paypal.ai",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "paypal-corp.com",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "mstdn.jp",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "interactivebrokers.com.hk",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "nomura.com",
+    "expected": "美国家宽"
+  },
+  {
+    "host": "aod-dash-uk-live.akamaized.net",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "vod-hls-uk-live.akamaized.net",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "itvpnpmobile-a.akamaihd.net",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "d349g9zuie06uo.cloudfront.net",
+    "expected": "英国家宽"
+  },
+  {
+    "host": "abematv.akamaized.net",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "ds-linear-abematv.akamaized.net",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "d1otoma47x30pg.cloudfront.net",
+    "expected": "日本家宽"
+  },
+  {
+    "host": "bcbolt446c5271-a.akamaihd.net",
+    "expected": "香港家宽"
+  },
+  {
+    "host": "tvbtracking.azurewebsites.net",
+    "expected": "香港家宽"
+  }
+]

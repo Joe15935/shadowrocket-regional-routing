@@ -1,0 +1,390 @@
+{
+  "repository": "blackmatrix7/ios_rule_script",
+  "branch": "master",
+  "sources": [
+    {
+      "name": "BBC",
+      "category": "uk",
+      "path": "rule/Shadowrocket/BBC/BBC.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "UKMedia",
+      "category": "uk",
+      "path": "rule/Shadowrocket/UKMedia/UKMedia.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "ITV",
+      "category": "uk",
+      "path": "rule/Shadowrocket/ITV/ITV.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "All4",
+      "category": "uk",
+      "path": "rule/Shadowrocket/All4/All4.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "My5",
+      "category": "uk",
+      "path": "rule/Shadowrocket/My5/My5.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "SkyGO",
+      "category": "uk",
+      "path": "rule/Shadowrocket/SkyGO/SkyGO.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "BritboxUK",
+      "category": "uk",
+      "path": "rule/Shadowrocket/BritboxUK/BritboxUK.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "Abema",
+      "category": "jp",
+      "path": "rule/Shadowrocket/Abema/Abema.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "AbemaTV",
+      "category": "jp",
+      "path": "rule/Shadowrocket/AbemaTV/AbemaTV.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "TVer",
+      "category": "jp",
+      "path": "rule/Shadowrocket/TVer/TVer.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "Niconico",
+      "category": "jp",
+      "path": "rule/Shadowrocket/Niconico/Niconico.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "HuluJP",
+      "category": "jp",
+      "path": "rule/Shadowrocket/HuluJP/HuluJP.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "Nikkei",
+      "category": "jp",
+      "path": "rule/Shadowrocket/Nikkei/Nikkei.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "Rakuten",
+      "category": "jp",
+      "path": "rule/Shadowrocket/Rakuten/Rakuten.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "Line",
+      "category": "jp",
+      "path": "rule/Shadowrocket/Line/Line.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "Pixiv",
+      "category": "jp",
+      "path": "rule/Shadowrocket/Pixiv/Pixiv.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "DMM",
+      "category": "jp",
+      "path": "rule/Shadowrocket/DMM/DMM.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "TVB",
+      "category": "hk",
+      "path": "rule/Shadowrocket/TVB/TVB.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "RTHK",
+      "category": "hk",
+      "path": "rule/Shadowrocket/RTHK/RTHK.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "HKOpenTV",
+      "category": "hk",
+      "path": "rule/Shadowrocket/HKOpenTV/HKOpenTV.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "myTVSUPER",
+      "category": "hk",
+      "path": "rule/Shadowrocket/myTVSUPER/myTVSUPER.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "ViuTV",
+      "category": "hk",
+      "path": "rule/Shadowrocket/ViuTV/ViuTV.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "NowE",
+      "category": "hk",
+      "path": "rule/Shadowrocket/NowE/NowE.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "MOOV",
+      "category": "hk",
+      "path": "rule/Shadowrocket/MOOV/MOOV.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "PCCW",
+      "category": "hk",
+      "path": "rule/Shadowrocket/PCCW/PCCW.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "Hkgolden",
+      "category": "hk",
+      "path": "rule/Shadowrocket/Hkgolden/Hkgolden.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "SmarTone",
+      "category": "hk",
+      "path": "rule/Shadowrocket/SmarTone/SmarTone.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "Crypto",
+      "category": "crypto",
+      "path": "rule/Shadowrocket/Crypto/Crypto.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "Cryptocurrency",
+      "category": "crypto",
+      "path": "rule/Shadowrocket/Cryptocurrency/Cryptocurrency.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "Binance",
+      "category": "crypto",
+      "path": "rule/Shadowrocket/Binance/Binance.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "OKX",
+      "category": "crypto",
+      "path": "rule/Shadowrocket/OKX/OKX.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "OpenAI",
+      "category": "ai",
+      "path": "rule/Shadowrocket/OpenAI/OpenAI.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "Claude",
+      "category": "ai",
+      "path": "rule/Shadowrocket/Claude/Claude.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "Anthropic",
+      "category": "ai",
+      "path": "rule/Shadowrocket/Anthropic/Anthropic.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "Gemini",
+      "category": "ai",
+      "path": "rule/Shadowrocket/Gemini/Gemini.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "BardAI",
+      "category": "ai",
+      "path": "rule/Shadowrocket/BardAI/BardAI.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "Copilot",
+      "category": "ai",
+      "path": "rule/Shadowrocket/Copilot/Copilot.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "YouTube",
+      "category": "streaming",
+      "path": "rule/Shadowrocket/YouTube/YouTube.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "YouTubeMusic",
+      "category": "streaming",
+      "path": "rule/Shadowrocket/YouTubeMusic/YouTubeMusic.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "Netflix",
+      "category": "streaming",
+      "path": "rule/Shadowrocket/Netflix/Netflix.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "TikTok",
+      "category": "streaming",
+      "path": "rule/Shadowrocket/TikTok/TikTok.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "Disney",
+      "category": "streaming",
+      "path": "rule/Shadowrocket/Disney/Disney.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "Spotify",
+      "category": "streaming",
+      "path": "rule/Shadowrocket/Spotify/Spotify.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "Twitch",
+      "category": "streaming",
+      "path": "rule/Shadowrocket/Twitch/Twitch.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "AmazonPrimeVideo",
+      "category": "streaming",
+      "path": "rule/Shadowrocket/AmazonPrimeVideo/AmazonPrimeVideo.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "PrimeVideo",
+      "category": "streaming",
+      "path": "rule/Shadowrocket/PrimeVideo/PrimeVideo.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "HBOUSA",
+      "category": "streaming",
+      "path": "rule/Shadowrocket/HBOUSA/HBOUSA.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "AppleTV",
+      "category": "streaming",
+      "path": "rule/Shadowrocket/AppleTV/AppleTV.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "AppleMusic",
+      "category": "streaming",
+      "path": "rule/Shadowrocket/AppleMusic/AppleMusic.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "Telegram",
+      "category": "social",
+      "path": "rule/Shadowrocket/Telegram/Telegram.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "Twitter",
+      "category": "social",
+      "path": "rule/Shadowrocket/Twitter/Twitter.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "Facebook",
+      "category": "social",
+      "path": "rule/Shadowrocket/Facebook/Facebook.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "Instagram",
+      "category": "social",
+      "path": "rule/Shadowrocket/Instagram/Instagram.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "Whatsapp",
+      "category": "social",
+      "path": "rule/Shadowrocket/Whatsapp/Whatsapp.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "Threads",
+      "category": "social",
+      "path": "rule/Shadowrocket/Threads/Threads.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "LinkedIn",
+      "category": "social",
+      "path": "rule/Shadowrocket/LinkedIn/LinkedIn.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "Reddit",
+      "category": "social",
+      "path": "rule/Shadowrocket/Reddit/Reddit.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "Discord",
+      "category": "social",
+      "path": "rule/Shadowrocket/Discord/Discord.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "Snap",
+      "category": "social",
+      "path": "rule/Shadowrocket/Snap/Snap.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "Pinterest",
+      "category": "social",
+      "path": "rule/Shadowrocket/Pinterest/Pinterest.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "Tumblr",
+      "category": "social",
+      "path": "rule/Shadowrocket/Tumblr/Tumblr.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "ChinaMaxNoIP",
+      "category": "china",
+      "path": "rule/Shadowrocket/ChinaMaxNoIP/ChinaMaxNoIP.list",
+      "format": "rule-set"
+    },
+    {
+      "name": "ChinaMaxNoIP_Domain",
+      "category": "china",
+      "path": "rule/Shadowrocket/ChinaMaxNoIP/ChinaMaxNoIP_Domain.list",
+      "format": "domain-set"
+    },
+    {
+      "name": "WeChat",
+      "category": "china",
+      "path": "rule/Shadowrocket/WeChat/WeChat.list",
+      "format": "rule-set"
+    }
+  ]
+}

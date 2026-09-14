@@ -1,0 +1,259 @@
+{
+  "repository": "Joe15935/shadowrocket-regional-routing",
+  "labels": [
+    "英国家宽",
+    "日本家宽",
+    "美国家宽",
+    "香港家宽"
+  ],
+  "udp_reject": true,
+  "compatibility": {
+    "version": "2.2.92",
+    "build": "3445",
+    "evidence": "The installed application bundled default.conf and executable contain udp-policy-not-supported-behaviour; the bundled template lists DIRECT and REJECT and sets REJECT."
+  },
+  "layers": [
+    {
+      "path": "rules/overrides/critical.list",
+      "policy": "美国家宽",
+      "category": "Finance",
+      "stage": 0,
+      "manual": true
+    },
+    {
+      "path": "rules/overrides/paypal-uk.list",
+      "policy": "英国家宽",
+      "category": "Finance",
+      "stage": 0,
+      "manual": true
+    },
+    {
+      "path": "rules/overrides/kraken-uk.list",
+      "policy": "英国家宽",
+      "category": "Crypto",
+      "stage": 0,
+      "manual": true
+    },
+    {
+      "path": "rules/overrides/apple-cn.list",
+      "policy": "DIRECT",
+      "category": "Apple",
+      "stage": 0,
+      "manual": true
+    },
+    {
+      "path": "rules/overrides/finance-uk.list",
+      "policy": "英国家宽",
+      "category": "Finance",
+      "stage": 1,
+      "manual": true
+    },
+    {
+      "path": "rules/uk-extra.list",
+      "policy": "英国家宽",
+      "category": "UK",
+      "stage": 1,
+      "manual": true
+    },
+    {
+      "path": "rules/generated/uk.list",
+      "policy": "英国家宽",
+      "category": "UK",
+      "stage": 1,
+      "manual": false,
+      "upstream_category": "uk"
+    },
+    {
+      "path": "rules/overrides/finance-jp.list",
+      "policy": "日本家宽",
+      "category": "Finance",
+      "stage": 2,
+      "manual": true
+    },
+    {
+      "path": "rules/jp-extra.list",
+      "policy": "日本家宽",
+      "category": "Japan",
+      "stage": 2,
+      "manual": true
+    },
+    {
+      "path": "rules/generated/jp.list",
+      "policy": "日本家宽",
+      "category": "Japan",
+      "stage": 2,
+      "manual": false,
+      "upstream_category": "jp"
+    },
+    {
+      "path": "rules/overrides/finance-hk.list",
+      "policy": "香港家宽",
+      "category": "Finance",
+      "stage": 3,
+      "manual": true
+    },
+    {
+      "path": "rules/hk-extra.list",
+      "policy": "香港家宽",
+      "category": "Hong Kong",
+      "stage": 3,
+      "manual": true
+    },
+    {
+      "path": "rules/generated/hk.list",
+      "policy": "香港家宽",
+      "category": "Hong Kong",
+      "stage": 3,
+      "manual": false,
+      "upstream_category": "hk"
+    },
+    {
+      "path": "rules/crypto-extra.list",
+      "policy": "日本家宽",
+      "category": "Crypto",
+      "stage": 4,
+      "manual": true
+    },
+    {
+      "path": "rules/generated/crypto-jp.list",
+      "policy": "日本家宽",
+      "category": "Crypto",
+      "stage": 4,
+      "manual": false,
+      "upstream_category": "crypto"
+    },
+    {
+      "path": "rules/ai-extra.list",
+      "policy": "美国家宽",
+      "category": "AI",
+      "stage": 5,
+      "manual": true
+    },
+    {
+      "path": "rules/generated/ai-us.list",
+      "policy": "美国家宽",
+      "category": "AI",
+      "stage": 5,
+      "manual": false,
+      "upstream_category": "ai"
+    },
+    {
+      "path": "rules/streaming-extra.list",
+      "policy": "美国家宽",
+      "category": "Streaming",
+      "stage": 6,
+      "manual": true
+    },
+    {
+      "path": "rules/international-extra.list",
+      "policy": "美国家宽",
+      "category": "US/Global",
+      "stage": 6,
+      "manual": true
+    },
+    {
+      "path": "rules/generated/streaming-us.list",
+      "policy": "美国家宽",
+      "category": "Streaming",
+      "stage": 6,
+      "manual": false,
+      "upstream_category": "streaming"
+    },
+    {
+      "path": "rules/social-extra.list",
+      "policy": "美国家宽",
+      "category": "Social",
+      "stage": 7,
+      "manual": true
+    },
+    {
+      "path": "rules/generated/social-us.list",
+      "policy": "美国家宽",
+      "category": "Social",
+      "stage": 7,
+      "manual": false,
+      "upstream_category": "social"
+    },
+    {
+      "path": "rules/overrides/finance-us.list",
+      "policy": "美国家宽",
+      "category": "Finance",
+      "stage": 8,
+      "manual": true
+    },
+    {
+      "path": "rules/overrides/china-direct.list",
+      "policy": "DIRECT",
+      "category": "China DIRECT",
+      "stage": 9,
+      "manual": true
+    },
+    {
+      "path": "rules/generated/china-direct.list",
+      "policy": "DIRECT",
+      "category": "China DIRECT",
+      "stage": 9,
+      "manual": false,
+      "upstream_category": "china"
+    }
+  ],
+  "exclude_domains": [
+    "edge.api.brightcove.com",
+    "content.jwplatform.com",
+    "videos-f.jwpsrv.com",
+    "youboranqs01.com",
+    "clientstream.launchdarkly.com",
+    "cognito-identity.us-east-1.amazonaws.com",
+    "mobileanalytics.us-east-1.amazonaws.com",
+    "2cnt.net",
+    "eu-1.xcal.tv",
+    "xmidt-eu.comcast.net",
+    "skygo.co.nz",
+    "tvb.com.au",
+    "tvbusa.com",
+    "tvmedia.net.au",
+    "encoretvb.com",
+    "tvbanywhere.com",
+    "tvbanywhere.com.sg",
+    "tvbc.com.cn",
+    "adx.promo",
+    "rakuten.com",
+    "rakuten.ca",
+    "rakuten.tw",
+    "rakuten.com.tw",
+    "viber.com",
+    "ebates.com",
+    "pccwglobal.com",
+    "pccwsolutions.com",
+    "ftx.com",
+    "bittrex.com",
+    "zb.com"
+  ],
+  "shared_infrastructure_roots": [
+    "amazonaws.com",
+    "cloudfront.net",
+    "akamaized.net",
+    "akamaihd.net",
+    "akamai.net",
+    "fastly.net",
+    "fastly.com",
+    "googleapis.com",
+    "google.com",
+    "googleusercontent.com",
+    "gstatic.com",
+    "firebaseio.com",
+    "firebaseapp.com",
+    "cloudflare.com",
+    "cloudflare.net",
+    "azurewebsites.net",
+    "sentry.io",
+    "launchdarkly.com",
+    "brightcove.com",
+    "jwplatform.com",
+    "jwpsrv.com",
+    "omtrdc.net",
+    "appsflayer.com",
+    "appsflyer.com",
+    "onelink.me"
+  ]
+}

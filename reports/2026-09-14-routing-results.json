@@ -1,0 +1,3220 @@
+[
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "kraken.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,kraken.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/kraken-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "pro.kraken.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,kraken.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/kraken-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "api.kraken.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,kraken.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/kraken-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "ws.kraken.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,kraken.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/kraken-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "ws-auth.kraken.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,kraken.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/kraken-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "futures.kraken.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,kraken.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/kraken-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "krak.app",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,krak.app,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/kraken-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "support.krak.app",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,krak.app,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/kraken-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "paypal.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,paypal.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/paypal-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "paypalobjects.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,paypalobjects.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/paypal-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "paypal.me",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,paypal.me,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/paypal-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "paypal.co.uk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,paypal.co.uk,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/paypal-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "www.paypal.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,paypal.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/paypal-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "api.paypal.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,paypal.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/paypal-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "api-m.paypal.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,paypal.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/paypal-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "api-3t.paypal.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,paypal.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/paypal-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "checkout.paypal.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,paypal.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/paypal-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "c.paypal.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,paypal.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/paypal-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "t.paypal.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,paypal.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/paypal-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "www.paypalobjects.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,paypalobjects.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/paypal-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "wise.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,wise.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "transferwise.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,transferwise.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "trading212.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,trading212.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "bbc.co.uk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,bbc.co.uk,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/uk-extra.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "bbc.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,bbc.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/uk-extra.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "itv.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,itv.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/uk-extra.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "channel4.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,channel4.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/uk-extra.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "my5.tv",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,my5.tv,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/uk-extra.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "sky.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,sky.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/uk-extra.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "britbox.co.uk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,britbox.co.uk,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/uk-extra.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "britbox.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,britbox.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/uk-extra.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "monzo.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,monzo.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "api.monzo.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,monzo.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "starlingbank.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,starlingbank.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "api.starlingbank.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,starlingbank.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "payment-api.starlingbank.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,starlingbank.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "barclays.co.uk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,barclays.co.uk,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "hsbc.co.uk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,hsbc.co.uk,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "lloydsbank.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,lloydsbank.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "halifax.co.uk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,halifax.co.uk,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "bankofscotland.co.uk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,bankofscotland.co.uk,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "natwest.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,natwest.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "rbs.co.uk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,rbs.co.uk,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "santander.co.uk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,santander.co.uk,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "nationwide.co.uk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,nationwide.co.uk,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "tsb.co.uk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,tsb.co.uk,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "metrobankonline.co.uk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,metrobankonline.co.uk,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "chase.co.uk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,chase.co.uk,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "lseg.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,lseg.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "londonstockexchange.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,londonstockexchange.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "fca.org.uk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,fca.org.uk,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "companieshouse.gov.uk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,companieshouse.gov.uk,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/uk-extra.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "nhs.net",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,nhs.net,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/uk-extra.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "unknown-example.co.uk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,uk,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "DOMAIN-SUFFIX"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "unknown-example.uk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,uk,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "DOMAIN-SUFFIX"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "unknown-example.org.uk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,uk,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "DOMAIN-SUFFIX"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "unknown-example.gov.uk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,gov.uk,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/uk-extra.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "unknown-example.ac.uk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,uk,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "DOMAIN-SUFFIX"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "amazon.co.uk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,amazon.co.uk,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/uk-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "binance.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,binance.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "api.binance.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,binance.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "ws-api.binance.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,binance.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "stream.binance.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,binance.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "fapi.binance.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,binance.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "fstream.binance.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,binance.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "data-api.binance.vision",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,binance.vision,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "data-stream.binance.vision",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,binance.vision,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "bnbstatic.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,bnbstatic.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "okx.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,okx.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "ws.okx.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,okx.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "wspap.okx.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,okx.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "static.okx.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,okx.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "openapi.okx.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,okx.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "us.okx.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,okx.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "gate.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,gate.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "gate.io",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,gate.io,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "api.gateio.ws",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,gateio.ws,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "fx-api.gateio.ws",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,gateio.ws,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "api-testnet.gateapi.io",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,gateapi.io,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "gateimg.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,gateimg.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "gaticdn.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,gaticdn.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "bybit.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,bybit.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "api.bybit.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,bybit.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "api.bytick.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,bytick.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "stream.bybit.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,bybit.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "stream.bybit.eu",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,bybit.eu,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "api.manepa.jp",
+    "MATCHED_RULE": "DOMAIN,api.manepa.jp,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "api.spark-fintech.com",
+    "MATCHED_RULE": "DOMAIN,api.spark-fintech.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "mexc.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,mexc.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "api.mexc.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,mexc.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "wbs-api.mexc.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,mexc.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "contract.mexc.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,mexc.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "coinbase.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,coinbase.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "api.coinbase.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,coinbase.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "ws-feed.exchange.coinbase.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,coinbase.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "bitget.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,bitget.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "kucoin.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,kucoin.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "api.kucoin.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,kucoin.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "htx.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,htx.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "api.huobi.pro",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,huobi.pro,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "crypto.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,crypto.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "bitfinex.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,bitfinex.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "bitstamp.net",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,bitstamp.net,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "deribit.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,deribit.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "coinex.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,coinex.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "coingecko.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,coingecko.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "coinmarketcap.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,coinmarketcap.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "etherscan.io",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,etherscan.io,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "arbiscan.io",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,arbiscan.io,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "basescan.org",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,basescan.org,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "bscscan.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,bscscan.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "solscan.io",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,solscan.io,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "uniswap.org",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,uniswap.org,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "aave.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,aave.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "curve.fi",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,curve.fi,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "1inch.io",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,1inch.io,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "metamask.io",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,metamask.io,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "phantom.app",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,phantom.app,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "ledger.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,ledger.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "trezor.io",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,trezor.io,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "infura.io",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,infura.io,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "alchemy.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,alchemy.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "coindesk.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,coindesk.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "gemini.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,gemini.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "abema.tv",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,abema.tv,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/jp-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "tver.jp",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,tver.jp,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/jp-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "nicovideo.jp",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,nicovideo.jp,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/jp-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "niconico.jp",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,niconico.jp,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/jp-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "rakuten.co.jp",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,rakuten.co.jp,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/jp-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "line.me",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,line.me,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/jp-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "nikkei.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,nikkei.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/jp-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "yahoo.co.jp",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,yahoo.co.jp,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/jp-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "paypay.ne.jp",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,paypay.ne.jp,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/jp-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "jp.mercari.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,jp.mercari.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/jp-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "pixiv.net",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,pixiv.net,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/jp-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "hulu.jp",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,hulu.jp,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/jp-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "moneykit.net",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,moneykit.net,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-jp.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "bk.mufg.jp",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,bk.mufg.jp,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-jp.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "smbc.co.jp",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,smbc.co.jp,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-jp.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "mizuhobank.co.jp",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,mizuhobank.co.jp,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-jp.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "jp-bank.japanpost.jp",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,jp-bank.japanpost.jp,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-jp.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "sbisec.co.jp",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,sbisec.co.jp,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-jp.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "rakuten-sec.co.jp",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,rakuten-sec.co.jp,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-jp.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "amazon.co.jp",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,amazon.co.jp,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/jp-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "unknown-example.jp",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,jp,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "DOMAIN-SUFFIX"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "unknown-example.co.jp",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,jp,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "DOMAIN-SUFFIX"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "unknown-example.ne.jp",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,jp,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "DOMAIN-SUFFIX"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "unknown-example.or.jp",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,jp,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "DOMAIN-SUFFIX"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "unknown-example.go.jp",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,jp,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "DOMAIN-SUFFIX"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "hkex.com.hk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,hkex.com.hk,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-hk.list"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "hkex.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,hkex.com,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-hk.list"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "sfc.hk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,sfc.hk,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-hk.list"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "tvb.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,tvb.com,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/hk-extra.list"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "rthk.hk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,rthk.hk,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/hk-extra.list"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "hkgolden.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,hkgolden.com,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/hk-extra.list"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "hsbc.com.hk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,hsbc.com.hk,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-hk.list"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "hangseng.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,hangseng.com,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-hk.list"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "bochk.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,bochk.com,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-hk.list"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "bank.za.group",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,bank.za.group,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-hk.list"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "mox.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,mox.com,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-hk.list"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "welab.bank",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,welab.bank,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-hk.list"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "futuhk.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,futuhk.com,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-hk.list"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "futunn.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,futunn.com,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-hk.list"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "lihkg.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,lihkg.com,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/hk-extra.list"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "mytvsuper.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,mytvsuper.com,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/hk-extra.list"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "viu.tv",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,viu.tv,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/hk-extra.list"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "viu.now.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,now.com,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/hk-extra.list"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "nowe.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,nowe.com,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/hk-extra.list"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "nowestatic.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,nowestatic.com,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/hk-extra.list"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "moov.hk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,moov.hk,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/hk-extra.list"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "hkt.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,hkt.com,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/hk-extra.list"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "pccw.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,pccw.com,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/hk-extra.list"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "smartone.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,smartone.com,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/hk-extra.list"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "gov.hk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,gov.hk,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/hk-extra.list"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "unknown-example.hk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,hk,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "DOMAIN-SUFFIX"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "unknown-example.com.hk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,hk,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "DOMAIN-SUFFIX"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "unknown-example.org.hk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,hk,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "DOMAIN-SUFFIX"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "unknown-example.co.hk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,hk,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "DOMAIN-SUFFIX"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "unknown-example.edu.hk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,hk,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "DOMAIN-SUFFIX"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "unknown-example.gov.hk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,gov.hk,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/hk-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "chatgpt.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,chatgpt.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/ai-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "openai.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,openai.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/ai-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "claude.ai",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,claude.ai,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/ai-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "anthropic.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,anthropic.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/ai-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "gemini.google.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,gemini.google.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/ai-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "grok.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,grok.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/ai-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "x.ai",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,x.ai,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/ai-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "cursor.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,cursor.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/ai-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "cursor.sh",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,cursor.sh,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/ai-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "aistudio.google.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,aistudio.google.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/ai-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "generativelanguage.googleapis.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,generativelanguage.googleapis.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/ai-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "githubcopilot.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,githubcopilot.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/ai-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "copilot.microsoft.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,copilot.microsoft.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/ai-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "perplexity.ai",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,perplexity.ai,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/ai-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "poe.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,poe.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/ai-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "huggingface.co",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,huggingface.co,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/ai-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "replit.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,replit.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/ai-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "windsurf.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,windsurf.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/ai-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "midjourney.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,midjourney.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/ai-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "runwayml.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,runwayml.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/ai-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "elevenlabs.io",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,elevenlabs.io,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/ai-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "notion.so",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,notion.so,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/ai-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "firefly.adobe.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,adobe.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/ai-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "youtube.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,youtube.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/streaming-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "googlevideo.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,googlevideo.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/streaming-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "tiktok.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,tiktok.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/streaming-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "tiktokcdn.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,tiktokcdn.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/streaming-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "tiktokcdn-us.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,tiktokcdn-us.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/streaming-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "netflix.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,netflix.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/streaming-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "disneyplus.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,disneyplus.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/streaming-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "max.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,max.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/streaming-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "spotify.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,spotify.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/streaming-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "twitch.tv",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,twitch.tv,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/streaming-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "primevideo.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,primevideo.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/streaming-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "tv.apple.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,apple.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/streaming-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "music.apple.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,apple.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/streaming-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "apple.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,apple.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/streaming-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "appleid.apple.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,apple.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/streaming-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "idmsa.apple.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,apple.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/streaming-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "icloud.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,icloud.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/streaming-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "cdn-apple.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,cdn-apple.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/streaming-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "aaplimg.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,aaplimg.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/streaming-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "mzstatic.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,mzstatic.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/streaming-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "icloud-content.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,icloud-content.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/streaming-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "apple-cloudkit.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,apple-cloudkit.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/streaming-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "telegram.org",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,telegram.org,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/social-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "t.me",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,t.me,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/social-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "x.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,x.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/social-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "twitter.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,twitter.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/social-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "facebook.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,facebook.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/social-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "instagram.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,instagram.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/social-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "threads.net",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,threads.net,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/social-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "whatsapp.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,whatsapp.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/social-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "discord.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,discord.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/social-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "reddit.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,reddit.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/social-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "linkedin.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,linkedin.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/social-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "snapchat.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,snapchat.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/social-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "pinterest.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,pinterest.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/social-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "tumblr.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,tumblr.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/social-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "mastodon.social",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,mastodon.social,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/social-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "revolut.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,revolut.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-us.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "interactivebrokers.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,interactivebrokers.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-us.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "schwab.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,schwab.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-us.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "firstrade.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,firstrade.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-us.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "fidelity.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,fidelity.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-us.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "robinhood.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,robinhood.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-us.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "webull.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,webull.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-us.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "tradingview.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,tradingview.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-us.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "nyse.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,nyse.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-us.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "nasdaq.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,nasdaq.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-us.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "cboe.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,cboe.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-us.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "paypal.us",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,paypal.us,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/critical.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "aliexpress.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,aliexpress.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/international-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "amazon.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,amazon.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/international-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "bilibili.tv",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,bilibili.tv,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/streaming-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "biliintl.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,biliintl.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/streaming-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "bstation.tv",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,bstation.tv,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/streaming-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "iq.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,iq.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/streaming-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "wetv.vip",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,wetv.vip,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/streaming-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "capcut.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,capcut.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/international-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "alibabacloud.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,alibabacloud.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/international-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "alibaba.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,alibaba.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/international-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "temu.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,temu.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/international-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "shein.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,shein.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/international-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "rakuten.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,rakuten.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/international-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "viber.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,viber.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/international-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "mercari.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,mercari.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/international-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "sony.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,sony.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/international-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "playstation.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,playstation.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/international-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "moomoo.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,moomoo.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/international-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "pccwglobal.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,pccwglobal.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/international-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "example.org",
+    "MATCHED_RULE": "FINAL,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "FINAL"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "random-unknown-global-example.com",
+    "MATCHED_RULE": "FINAL,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "FINAL"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "totallyunknown.example",
+    "MATCHED_RULE": "FINAL,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "FINAL"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "cloudflare.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,cloudflare.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/international-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "challenges.cloudflare.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,challenges.cloudflare.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/generated/ai-us.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "clientstream.launchdarkly.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,launchdarkly.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/international-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "edge.api.brightcove.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,brightcove.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/international-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "cognito-identity.us-east-1.amazonaws.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,amazonaws.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/international-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "mobileanalytics.us-east-1.amazonaws.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,amazonaws.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/international-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "arbitrary.cloudfront.net",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,cloudfront.net,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/international-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "arbitrary.akamaized.net",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,akamaized.net,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/international-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "arbitrary.fastly.net",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,fastly.net,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/international-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "arbitrary.googleapis.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,googleapis.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/international-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "sentry.io",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,sentry.io,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/international-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "fakepaypal.com",
+    "MATCHED_RULE": "FINAL,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "FINAL"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "kraken.com.evil.example",
+    "MATCHED_RULE": "FINAL,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "FINAL"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "notbinance.com",
+    "MATCHED_RULE": "FINAL,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "FINAL"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "bank-example.org",
+    "MATCHED_RULE": "FINAL,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "FINAL"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "ai-example.org",
+    "MATCHED_RULE": "FINAL,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "FINAL"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "japan-example.org",
+    "MATCHED_RULE": "FINAL,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "FINAL"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "qq.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,qq.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "weixin.qq.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,qq.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "wechat.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,wechat.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "weixin.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,weixin.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "alipay.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,alipay.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "taobao.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,taobao.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "tmall.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,tmall.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "jd.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,jd.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "bilibili.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,bilibili.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "douyin.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,douyin.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "xiaohongshu.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,xiaohongshu.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "meituan.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,meituan.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "12306.cn",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,12306.cn,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "icbc.com.cn",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,icbc.com.cn,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "ccb.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,ccb.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "abchina.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,abchina.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "boc.cn",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,boc.cn,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "cmbchina.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,cmbchina.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "bankcomm.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,bankcomm.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "spdb.com.cn",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,spdb.com.cn,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "cmbc.com.cn",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,cmbc.com.cn,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "cib.com.cn",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,cib.com.cn,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "cebbank.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,cebbank.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "cgbchina.com.cn",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,cgbchina.com.cn,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "10086.cn",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,10086.cn,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "10010.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,10010.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "189.cn",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,189.cn,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "eastmoney.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,eastmoney.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "10jqka.com.cn",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,10jqka.com.cn,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "xueqiu.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,xueqiu.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "baidu.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,baidu.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "amap.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,amap.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "weibo.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,weibo.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "youku.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,youku.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "v.qq.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,qq.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "iqiyi.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,iqiyi.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "163.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,163.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "music.163.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,163.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "zhihu.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,zhihu.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "douban.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,douban.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "hupu.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,hupu.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "ctrip.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,ctrip.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "qunar.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,qunar.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "fliggy.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,fliggy.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "xiaojukeji.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,xiaojukeji.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "pinduoduo.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,pinduoduo.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "yangkeduo.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,yangkeduo.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "ele.me",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,ele.me,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "tencent.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,tencent.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "alicdn.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,alicdn.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "myqcloud.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,myqcloud.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "aliyun.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,aliyun.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "huaweicloud.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,huaweicloud.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "apple.com.cn",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,apple.com.cn,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/apple-cn.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "icloud.com.cn",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,icloud.com.cn,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/apple-cn.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "apzones.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,apzones.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/apple-cn.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "p01-ckdatabase.apzones.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,apzones.com,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/apple-cn.list"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "tmall.hk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,tmall.hk,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/hk-extra.list"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "jd.hk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,jd.hk,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/hk-extra.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "gov.cn",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,gov.cn,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/china-direct.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "unknown-example.cn",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,cn,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "DOMAIN-SUFFIX"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "localhost",
+    "MATCHED_RULE": "DOMAIN,localhost,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "DOMAIN"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "router.local",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,local,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "DOMAIN-SUFFIX"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "printer.home.arpa",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,home.arpa,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "DOMAIN-SUFFIX"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "GEOIP_FIXTURE": "US",
+    "HOST": "bbc.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,bbc.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/uk-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "GEOIP_FIXTURE": "US",
+    "HOST": "tver.jp",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,tver.jp,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/jp-extra.list"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "GEOIP_FIXTURE": "US",
+    "HOST": "tvb.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,tvb.com,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/hk-extra.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "GEOIP_FIXTURE": "CN",
+    "HOST": "tiktok.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,tiktok.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/streaming-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "GEOIP_FIXTURE": "CN",
+    "HOST": "binance.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,binance.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "GEOIP_FIXTURE": "CN",
+    "HOST": "paypal.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,paypal.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/paypal-uk.list"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "GEOIP_FIXTURE": "CN",
+    "HOST": "unknown-global.test",
+    "MATCHED_RULE": "GEOIP,CN,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "GEOIP"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "GEOIP_FIXTURE": "JP",
+    "HOST": "unknown-global.test",
+    "MATCHED_RULE": "FINAL,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "FINAL"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "GEOIP_FIXTURE": "GB",
+    "HOST": "unknown-global.test",
+    "MATCHED_RULE": "FINAL,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "FINAL"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "GEOIP_FIXTURE": "HK",
+    "HOST": "unknown-global.test",
+    "MATCHED_RULE": "FINAL,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "FINAL"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "127.0.0.1",
+    "MATCHED_RULE": "IP-CIDR,127.0.0.0/8,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "IP-CIDR"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "10.2.3.4",
+    "MATCHED_RULE": "IP-CIDR,10.0.0.0/8,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "IP-CIDR"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "172.16.2.3",
+    "MATCHED_RULE": "IP-CIDR,172.16.0.0/12,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "IP-CIDR"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "192.168.2.3",
+    "MATCHED_RULE": "IP-CIDR,192.168.0.0/16,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "IP-CIDR"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "169.254.2.3",
+    "MATCHED_RULE": "IP-CIDR,169.254.0.0/16,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "IP-CIDR"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "::1",
+    "MATCHED_RULE": "IP-CIDR6,::1/128,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "IP-CIDR6"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "fd00::1",
+    "MATCHED_RULE": "IP-CIDR6,fc00::/7,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "IP-CIDR6"
+  },
+  {
+    "EXPECTED": "DIRECT",
+    "HOST": "fe80::1",
+    "MATCHED_RULE": "IP-CIDR6,fe80::/10,DIRECT",
+    "POLICY": "DIRECT",
+    "RESULT": "PASS",
+    "SOURCE": "IP-CIDR6"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "static.okx.ac",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,okx.ac,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "static.okx.cab",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,okx.cab,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "static.okx.reise",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,okx.reise,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "www.bybit-global.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,bybit-global.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "www.kucoinauth.cloud",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,kucoinauth.cloud,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "img.bgstatic.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,bgstatic.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "img.bitgetimg.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,bitgetimg.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "file.coinexstatic.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,coinexstatic.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "mexc-static-learn.s3.ap-northeast-1.amazonaws.com",
+    "MATCHED_RULE": "DOMAIN,mexc-static-learn.s3.ap-northeast-1.amazonaws.com,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/crypto-extra.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "iapi.kraken.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,kraken.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/kraken-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "assets.kraken.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,kraken.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/kraken-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "assets-cms.kraken.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,kraken.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/kraken-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "m.krak.app",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,krak.app,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/kraken-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "www.paypal-status.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,paypal-status.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/paypal-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "paypal.ai",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,paypal.ai,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/paypal-uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "paypal-corp.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,paypal-corp.com,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/paypal-uk.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "mstdn.jp",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,mstdn.jp,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/jp-extra.list"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "interactivebrokers.com.hk",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,interactivebrokers.com.hk,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-hk.list"
+  },
+  {
+    "EXPECTED": "美国家宽",
+    "HOST": "nomura.com",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,nomura.com,美国家宽",
+    "POLICY": "美国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/overrides/finance-us.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "aod-dash-uk-live.akamaized.net",
+    "MATCHED_RULE": "DOMAIN,aod-dash-uk-live.akamaized.net,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/generated/uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "vod-hls-uk-live.akamaized.net",
+    "MATCHED_RULE": "DOMAIN,vod-hls-uk-live.akamaized.net,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/generated/uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "itvpnpmobile-a.akamaihd.net",
+    "MATCHED_RULE": "DOMAIN,itvpnpmobile-a.akamaihd.net,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/generated/uk.list"
+  },
+  {
+    "EXPECTED": "英国家宽",
+    "HOST": "d349g9zuie06uo.cloudfront.net",
+    "MATCHED_RULE": "DOMAIN,d349g9zuie06uo.cloudfront.net,英国家宽",
+    "POLICY": "英国家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/generated/uk.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "abematv.akamaized.net",
+    "MATCHED_RULE": "DOMAIN,abematv.akamaized.net,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/generated/jp.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "ds-linear-abematv.akamaized.net",
+    "MATCHED_RULE": "DOMAIN,ds-linear-abematv.akamaized.net,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/generated/jp.list"
+  },
+  {
+    "EXPECTED": "日本家宽",
+    "HOST": "d1otoma47x30pg.cloudfront.net",
+    "MATCHED_RULE": "DOMAIN-SUFFIX,d1otoma47x30pg.cloudfront.net,日本家宽",
+    "POLICY": "日本家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/generated/jp.list"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "bcbolt446c5271-a.akamaihd.net",
+    "MATCHED_RULE": "DOMAIN,bcbolt446c5271-a.akamaihd.net,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/generated/hk.list"
+  },
+  {
+    "EXPECTED": "香港家宽",
+    "HOST": "tvbtracking.azurewebsites.net",
+    "MATCHED_RULE": "DOMAIN,tvbtracking.azurewebsites.net,香港家宽",
+    "POLICY": "香港家宽",
+    "RESULT": "PASS",
+    "SOURCE": "rules/generated/hk.list"
+  }
+]

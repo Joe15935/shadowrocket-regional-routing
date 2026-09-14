@@ -1,0 +1,211 @@
+[
+  {
+    "url": "https://www.kraken.com/krak",
+    "http": 200,
+    "linked_service_hosts": [
+      "assets-cms.kraken.com",
+      "assets.kraken.com",
+      "iapi.kraken.com",
+      "krak.app",
+      "m.krak.app",
+      "support.krak.app",
+      "support.kraken.com",
+      "www.krak.app",
+      "www.kraken.com"
+    ]
+  },
+  {
+    "url": "https://krak.app/",
+    "http": 200,
+    "linked_service_hosts": [
+      "assets-cms.kraken.com",
+      "assets.kraken.com",
+      "iapi.kraken.com",
+      "krak.app",
+      "m.krak.app",
+      "support.krak.app",
+      "support.kraken.com",
+      "www.krak.app",
+      "www.kraken.com"
+    ]
+  },
+  {
+    "url": "https://krakenpro.com/",
+    "http": null,
+    "error": "URLError"
+  },
+  {
+    "url": "https://www.paypal.com/us/cshelp/article/what-is-paypalme-help432",
+    "http": 200,
+    "linked_service_hosts": [
+      "developer.paypal.com",
+      "newsroom.paypal-corp.com",
+      "www.paypal.ai",
+      "www.paypal.com",
+      "www.paypal.me",
+      "www.paypalobjects.com"
+    ]
+  },
+  {
+    "url": "https://developer.paypal.com/payment-links-buttons/troubleshooting/",
+    "http": 200,
+    "linked_service_hosts": [
+      "developer.paypal.com",
+      "paypal.com",
+      "www.paypal-status.com",
+      "www.paypal.com",
+      "www.paypalobjects.com",
+      "znbcovnabjyixpahd-paypaldigital.siteintercept.qualtrics.com"
+    ]
+  },
+  {
+    "url": "https://www.binance.com/",
+    "http": 202,
+    "linked_service_hosts": []
+  },
+  {
+    "url": "https://www.okx.com/",
+    "http": 200,
+    "linked_service_hosts": [
+      "app.okx.com",
+      "jpush.okx.com",
+      "jpushws.okx.com",
+      "static.okx.ac",
+      "static.okx.cab",
+      "static.okx.com",
+      "static.okx.reise",
+      "tr.okx.com",
+      "web3.okx.com",
+      "www.okx.com"
+    ]
+  },
+  {
+    "url": "https://www.gate.com/",
+    "http": 403,
+    "error": "HTTPError"
+  },
+  {
+    "url": "https://www.bybit.com/",
+    "http": 200,
+    "linked_service_hosts": [
+      "www.bybit-global.com",
+      "www.bybit.com",
+      "www.bybit.eu",
+      "www.bybit.kz",
+      "www.bybit.tr",
+      "www.bybitgeorgia.ge",
+      "www.bybitglobal.com"
+    ]
+  },
+  {
+    "url": "https://www.mexc.com/",
+    "http": 200,
+    "linked_service_hosts": [
+      "mexc-static-learn.s3.ap-northeast-1.amazonaws.com",
+      "www.mexc.co",
+      "www.mexc.com",
+      "www.mexc.fm"
+    ]
+  },
+  {
+    "url": "https://www.bitget.com/",
+    "http": 200,
+    "linked_service_hosts": [
+      "img.bgstatic.com",
+      "img.bitgetimg.com",
+      "web3.bitget.com",
+      "www.bitget.com",
+      "www.bitget.site",
+      "www.bitgetapp.com",
+      "www.bitgetapps.com"
+    ]
+  },
+  {
+    "url": "https://www.kucoin.com/",
+    "http": 200,
+    "linked_service_hosts": [
+      "assets-currency.kucoin.com",
+      "kucoin.onelink.me",
+      "www.kucoin.club",
+      "www.kucoin.com",
+      "www.kucoin.th",
+      "www.kucoin.tr",
+      "www.kucoinauth.cloud"
+    ]
+  },
+  {
+    "url": "https://www.htx.com/",
+    "http": 200,
+    "linked_service_hosts": [
+      "hbg-prod-fed-public.hbfile.net",
+      "www.htx.com"
+    ]
+  },
+  {
+    "url": "https://crypto.com/",
+    "http": 200,
+    "linked_service_hosts": [
+      "accounts.crypto.com",
+      "ai-agent-sdk-docs.crypto.com",
+      "chat.crypto.com",
+      "crypto.com",
+      "exchange-docs.crypto.com",
+      "help.crypto.com",
+      "mcp.crypto.com",
+      "merchant.crypto.com",
+      "mkt-site-asset.crypto.com",
+      "mkt-static.crypto.com",
+      "pay-docs.crypto.com",
+      "status.crypto.com",
+      "web.crypto.com",
+      "www.crypto.com"
+    ]
+  },
+  {
+    "url": "https://www.bitfinex.com/",
+    "http": 200,
+    "linked_service_hosts": [
+      "bitfinex.com",
+      "bitfinex.statuspage.io",
+      "blog.bitfinex.com",
+      "careers.bitfinex.com",
+      "cs.bitfinex.com",
+      "docs.bitfinex.com",
+      "leaderboard.bitfinex.com",
+      "leo.bitfinex.com",
+      "reporting.bitfinex.com",
+      "staking.bitfinex.com",
+      "static.bitfinex.com",
+      "support.bitfinex.com",
+      "trading.bitfinex.com",
+      "www.bitfinex.com"
+    ]
+  },
+  {
+    "url": "https://www.bitstamp.net/",
+    "http": 200,
+    "linked_service_hosts": []
+  },
+  {
+    "url": "https://www.deribit.com/",
+    "http": 200,
+    "linked_service_hosts": [
+      "assets.deribit.com",
+      "deribit.recruitee.com",
+      "docs.deribit.com",
+      "insights.deribit.com",
+      "pb.deribit.com",
+      "support.deribit.com",
+      "test.deribit.com",
+      "www.deribit.com"
+    ]
+  },
+  {
+    "url": "https://www.coinex.com/",
+    "http": 200,
+    "linked_service_hosts": [
+      "file.coinexstatic.com",
+      "www.coinex.com"
+    ]
+  }
+]
