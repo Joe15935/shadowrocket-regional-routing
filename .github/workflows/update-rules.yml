@@ -55,7 +55,7 @@ jobs:
               f.write('changed='+str(old!=new).lower()+'\n')
               f.write('version='+new+'\n')
           PY
-      - name: Atomically publish the configuration, snapshots and mandatory reports
+      - name: Stage the tested snapshot before changing the stable import URL
         if: steps.changed.outputs.changed == 'true'
         env:
           RELEASE_VERSION: ${{ steps.changed.outputs.version }}
@@ -64,18 +64,23 @@ jobs:
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add README.md CHANGELOG.md shadowrocket-ultimate.conf rules/generated upstream-lock.json conflicts.json version.json reports
           git commit -m "Publish tested routing snapshot ${RELEASE_VERSION}"
-          git tag "${RELEASE_VERSION}"
-          git push --atomic origin HEAD:main "refs/tags/${RELEASE_VERSION}"
-      - name: Verify public release
-        if: steps.changed.outputs.changed == 'true'
-        run: python3 scripts/remote_verify.py
+          if ! git show-ref --verify --quiet "refs/tags/${RELEASE_VERSION}"; then
+            git tag "${RELEASE_VERSION}"
+            git push origin "refs/tags/${RELEASE_VERSION}"
+          fi
+          python3 scripts/remote_verify.py --ref "${RELEASE_VERSION}"
+          git push origin HEAD:main
       - name: Mark blocked update report if a preceding stage failed
         if: failure()
         run: |
           mkdir -p work
-          if [ ! -f work/update-report.md ]; then
-            printf '# UPDATE_BLOCKED\n\nA workflow stage failed. See the job log. No unvalidated candidate is published by the update stage.\n' > work/update-report.md
-          fi
+          python3 - <<'PY'
+          from pathlib import Path
+          p=Path('work/update-report.md')
+          previous=p.read_text() if p.exists() else ''
+          if not previous.startswith('# UPDATE_BLOCKED'):
+              p.write_text('# UPDATE_BLOCKED\n\nA workflow stage failed. Inspect the failed step in the job log. The stable main update is gated on all candidate tests and anonymous raw URL checks.\n\n'+previous)
+          PY
       - name: Publish run summary
         if: always()
         run: |

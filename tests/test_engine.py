@@ -1,8 +1,11 @@
 import sys
 from pathlib import Path
 import unittest
+from unittest.mock import patch
+import tempfile
 sys.path.insert(0,str(Path(__file__).resolve().parents[1]/'scripts'))
 from routing import Rule, Simulator, list_rules, covers, overlap, UK, JP, US, DIRECT, parse_config, assembled
+import pipeline
 from pipeline import policy_diff
 
 class RoutingEngineTests(unittest.TestCase):
@@ -72,5 +75,16 @@ class RoutingEngineTests(unittest.TestCase):
     def test_config_expansion_matches_layer_order(self):
         rows,_=parse_config()
         self.assertEqual([(r.kind,r.value,r.policy) for r in rows],[(r.kind,r.value,r.policy) for r in assembled()])
+
+    def test_failed_update_replaces_stale_run_report(self):
+        with tempfile.TemporaryDirectory() as temp:
+            work=Path(temp)
+            (work/'update-report.md').write_text('old successful update')
+            with patch.object(pipeline,'WORK',work), patch.object(pipeline,'save_before',return_value=({'version':'previous'},[])), patch.object(pipeline,'fetch',side_effect=ValueError('controlled fetch failure')):
+                with self.assertRaises(ValueError):pipeline.update()
+            report=(work/'update-report.md').read_text()
+            self.assertIn('UPDATE_BLOCKED',report)
+            self.assertIn('controlled fetch failure',report)
+            self.assertNotIn('old successful update',report)
 
 if __name__=='__main__':unittest.main()

@@ -390,13 +390,14 @@ def save_before():
     return previous,rows
 
 def update():
-    previous,old_rows=save_before();results=[]
+    previous,old_rows=save_before();results=[];failure_reported=False
     try:
         fetch();normalize();classify();version=build();validate();results=regress()
         subprocess.run([sys.executable,'-m','unittest','discover','-s','tests','-p','test_*.py'],cwd=ROOT,check=True)
         changes=policy_diff(old_rows,assembled()) if old_rows else []
         if changes:
             make_report(previous,old_rows,results,'UPDATE_BLOCKED','Effective policy changed. A deliberate canonical-rule review is required; automatic upstream updates cannot approve country or DIRECT changes.')
+            failure_reported=True
             raise ValueError(f'UPDATE_BLOCKED: {len(changes)} high-impact policy witnesses changed')
         if version==previous.get('version'):
             make_report(previous,old_rows,results,'NO_RULE_CHANGES')
@@ -407,8 +408,8 @@ def update():
         print('RELEASE_READY:',version)
     except Exception as e:
         WORK.mkdir(exist_ok=True)
-        if not (WORK/'update-report.md').exists():
-            (WORK/'update-report.md').write_text('# UPDATE_BLOCKED\n\n'+str(e)+'\n\nThe published main branch was not changed.\n')
+        if not failure_reported:
+            (WORK/'update-report.md').write_text('# UPDATE_BLOCKED\n\nUpdate Date: '+now()+'\nPrevious Version: '+previous.get('version','none')+'\n\n'+str(e)+'\n\nThe published main branch was not changed.\n')
         raise
 
 def main():
